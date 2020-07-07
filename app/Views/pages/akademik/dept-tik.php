@@ -94,7 +94,7 @@
                             <div class="row">
                                 <div class="col">
                                     <h5 class="heading">Jurusan</h5>
-                                    <ul>
+                                    <ul class="list-unstyled">
                                         <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-it" class="card-link">Teknik Informatika</a></li>
                                         <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-tekkom" class="card-link">Teknik Komputer</a></li>
                                     </ul>
