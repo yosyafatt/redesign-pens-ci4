@@ -65,7 +65,7 @@
             <div class="col text-center">
                 <h2 class="heading text-white mb-3">Jurusan</h2>
                 <div class="jurusan-carousel owl-carousel owl-theme ">
-                    <a href="<?= current_url(); ?>/jurusan-elka" class="jurusan-carousel-item rounded-pill">
+                    <a href="<?= current_url(); ?>/jurusan-elka" class="btn jurusan-carousel-item rounded-pill">
                         <p>Teknik Elektronika</p>
                     </a>
                     <div class="jurusan-carousel-item rounded-pill">
