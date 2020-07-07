@@ -49,7 +49,7 @@
                             <div class="card mb-3">
                                 <div class="row no-gutters">
                                     <div class="col-md-8">
-                                        <img src="<?= base_url(); ?>/uploads/<?= $b['img']; ?>" class="card-img" alt="...">
+                                        <img src="<?= base_url(); ?>/public/uploads/<?= $b['img']; ?>" class="card-img" alt="...">
                                     </div>
                                     <div class="col-md-4">
                                         <div class="card-body">
@@ -70,7 +70,7 @@
                     <ul class="list-unstyled">
                         <?php foreach ($berita as $b) : ?>
                             <li class="media my-3">
-                                <img src="<?= base_url(); ?>/uploads/<?= $b['img']; ?>" class="mr-3" alt="...">
+                                <img src="<?= base_url(); ?>/public/uploads/<?= $b['img']; ?>" class="mr-3" alt="...">
                                 <div class="media-body">
                                     <a href="" class="text-decoration-none">
                                         <h6 class="heading mt-0 mb-1"><?= $b['title']; ?></h5>
