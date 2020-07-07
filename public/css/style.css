@@ -429,6 +429,15 @@ section#akademik img {
   margin-bottom: 16px;
 }
 
+.akademik-content .card {
+  border-radius: 0;
+  box-shadow: 0 4px 8px 2px rgba(0, 0, 0, 0.2);
+}
+
+.akademik-content .card li a.card-link {
+  font-size: 14px;
+}
+
 /* end of Main Content */
 
 /* Sidebar */
