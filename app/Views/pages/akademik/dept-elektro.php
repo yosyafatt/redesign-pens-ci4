@@ -11,7 +11,7 @@
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>">Beranda</a></li>
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>/pages/akademik">Akademik</a></li>
-                    <li class="breadcrumb-item active"><a href="<?= base_url(); ?>/pages/akademik">Program Akademik</a></li>
+                    <li class="breadcrumb-item active"><a href="<?= current_url(); ?>">Departemen</a></li>
                 </ol>
             </div>
             <div class="col-md-8">
@@ -52,7 +52,7 @@
                             <ul id="collapseTwo" class="collapse accordionChild" data-parent="#accordion">
                                 <li><a href="<?= base_url(); ?>/pages/akademik/prodi-d3">Diploma III</a></li>
                                 <li><a href="<?= base_url(); ?>/pages/akademik/prodi-d4">Sarjana Terapan</a></li>
-                                <li><a href="<?= base_url(); ?>/pages/akademik/prodi-s2">Pascasarjana</a></li>
+                                <li><a href="https://pascasarjana.pens.ac.id">Pascasarjana</a></li>
                             </ul>
                         </ul>
                         <ul class="accordionParent">

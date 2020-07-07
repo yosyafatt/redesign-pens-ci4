@@ -51,7 +51,7 @@
                         <h3 class="heading card-title">Pascasarjana</h3>
                         <p class="card-text">Menjadi politeknik yang memulai program Pascasarjana Terapan pertama di Indonesia. PENS, sebagai awalannya membuka Progam Studi Teknik Elektro serta Teknik Informatika dan Komputer</p>
                         <div>
-                            <a href="<?= current_url(); ?>/prodi-s2" class="btn shadow-sm btn-custom">Selengkapnya <span class="ml-4"><i class="fas fa-arrow-right"></i></span></a>
+                            <a href="https://pascasarjana.pens.ac.id" class="btn shadow-sm btn-custom">Selengkapnya <span class="ml-4"><i class="fas fa-arrow-right"></i></span></a>
                         </div>
                     </div>
                 </div>
