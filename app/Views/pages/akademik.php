@@ -65,31 +65,31 @@
             <div class="col text-center">
                 <h2 class="heading text-white mb-3">Jurusan</h2>
                 <div class="jurusan-carousel owl-carousel owl-theme ">
-                    <a href="<?= current_url(); ?>/jurusan-elka" class="owl-item jurusan-carousel-item rounded-pill">
+                    <a href="<?= current_url(); ?>/jurusan-elka" class="jurusan-carousel-item rounded-pill">
                         <span>Teknik Elektronika</span>
                     </a>
-                    <a href="<?= current_url(); ?>/jurusan-telkom" class="owl-item jurusan-carousel-item rounded-pill">
+                    <a href="<?= current_url(); ?>/jurusan-telkom" class="jurusan-carousel-item rounded-pill">
                         <span>Teknik Telekomunikasi</span>
                     </a>
-                    <a href="<?= current_url(); ?>/jurusan-elin" class="owl-item jurusan-carousel-item rounded-pill">
+                    <a href="<?= current_url(); ?>/jurusan-elin" class="jurusan-carousel-item rounded-pill">
                         <span>Teknik Elektro Industri</span>
                     </a>
-                    <a href="<?= current_url(); ?>/jurusan-it" class="owl-item jurusan-carousel-item rounded-pill">
+                    <a href="<?= current_url(); ?>/jurusan-it" class="jurusan-carousel-item rounded-pill">
                         <span>Teknik Informatika</span>
                     </a>
-                    <a href="<?= current_url(); ?>/jurusan-tekkom" class="owl-item jurusan-carousel-item rounded-pill">
+                    <a href="<?= current_url(); ?>/jurusan-tekkom" class="jurusan-carousel-item rounded-pill">
                         <span>Teknik Komputer</span>
                     </a>
-                    <a href="<?= current_url(); ?>/jurusan-meka" class="owl-item jurusan-carousel-item rounded-pill">
+                    <a href="<?= current_url(); ?>/jurusan-meka" class="jurusan-carousel-item rounded-pill">
                         <span>Teknik Mekatronika</span>
                     </a>
-                    <a href="<?= current_url(); ?>/jurusan-spe" class="owl-item jurusan-carousel-item rounded-pill">
+                    <a href="<?= current_url(); ?>/jurusan-spe" class="jurusan-carousel-item rounded-pill">
                         <span>Sistem Pembangkit Energi</span>
                     </a>
-                    <a href="<?= current_url(); ?>/jurusan-mmb" class="owl-item jurusan-carousel-item rounded-pill">
+                    <a href="<?= current_url(); ?>/jurusan-mmb" class="jurusan-carousel-item rounded-pill">
                         <span>Teknologi Multimedia dan Broadcasting</span>
                     </a>
-                    <a href="<?= current_url(); ?>/jurusan-game" class="owl-item jurusan-carousel-item rounded-pill">
+                    <a href="<?= current_url(); ?>/jurusan-game" class="jurusan-carousel-item rounded-pill">
                         <span>Teknologi Game</span>
                     </a>
                 </div>
