@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-4">
                 <h1 class="heading text-white">
-                    Diploma III
+                    Departemen Teknik Mekanika dan Energi
                 </h1>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>">Beranda</a></li>
@@ -87,10 +87,7 @@
             </div>
             <div class="col-md-8">
                 <div class="berita-content">
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus vitae quibusdam iste, qui, beatae fugiat sit repudiandae voluptates quas architecto aliquid nam dolor laudantium at, molestiae cum ipsa maiores quidem excepturi sed? Ut commodi nulla suscipit consequatur, eveniet est, necessitatibus praesentium labore aperiam tenetur earum ratione illum repudiandae inventore. Veritatis.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum animi voluptates est autem alias aspernatur repellat accusamus repudiandae laborum molestiae ex eligendi, nam rerum voluptatem ea culpa magnam. Nulla officiis temporibus repellat. Laboriosam, consequatur perspiciatis quod mollitia vero earum iusto sapiente architecto ex laborum sit rem ullam? Dolor, ad neque?</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum animi voluptates est autem alias aspernatur repellat accusamus repudiandae laborum molestiae ex eligendi, nam rerum voluptatem ea culpa magnam. Nulla officiis temporibus repellat. Laboriosam, consequatur perspiciatis quod mollitia vero earum iusto sapiente architecto ex laborum sit rem ullam? Dolor, ad neque?</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum animi voluptates est autem alias aspernatur repellat accusamus repudiandae laborum molestiae ex eligendi, nam rerum voluptatem ea culpa magnam. Nulla officiis temporibus repellat. Laboriosam, consequatur perspiciatis quod mollitia vero earum iusto sapiente architecto ex laborum sit rem ullam? Dolor, ad neque?</p>
+                    Departemen Teknik Mekanika Energi (DTME) merupakan departemen yang terdiri dari dua program studi, yaitu Sarjana Terapan Teknik Mekatronika dan Sarjana Terapan Sistem Pembangkit Energi. Departemen ini telah ada sejak tahun 2011. Mahasiswa program studi ini telah menorehkan banyak prestasi salah satunya yakni sebagai perwakilan Indonesia di ajang World Skill Competition yang terlaksana di Abu Dhabi, Uni Emirat Arab. Teknik Mekatronika dapat dikatakan sebagai sinergis IPTEK teknik mesin, teknik elektronika, Teknik informatika dan teknik pengaturan (atau teknik kendali) untuk merancang, membuat atau memproduksi, mengoperasikan dan memelihara sebuah sistem untuk mencapai tujuan yang diinginkan. Sedangkan Sistem Pembangkit Energi merupakan suatu program studi yang mempelajari bagaimana caranya mempertahankan dan mencari energi.
                 </div>
             </div>
         </div>

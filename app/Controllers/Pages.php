@@ -76,6 +76,18 @@ class Pages extends BaseController
             case 'jurusan-game':
                 return view('pages/akademik/' . $subpage, $data);
                 break;
+            case 'dept-elektro':
+                return view('pages/akademik/' . $subpage, $data);
+                break;
+            case 'dept-tik':
+                return view('pages/akademik/' . $subpage, $data);
+                break;
+            case 'dept-multimedia':
+                return view('pages/akademik/' . $subpage, $data);
+                break;
+            case 'dept-mekanergi':
+                return view('pages/akademik/' . $subpage, $data);
+                break;
 
             default:
                 return view('pages/akademik', $data);

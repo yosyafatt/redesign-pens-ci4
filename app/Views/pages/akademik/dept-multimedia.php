@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-4">
                 <h1 class="heading text-white">
-                    Diploma III
+                    Departemen Teknologi Multimedia Kreatif
                 </h1>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>">Beranda</a></li>
@@ -87,10 +87,7 @@
             </div>
             <div class="col-md-8">
                 <div class="berita-content">
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus vitae quibusdam iste, qui, beatae fugiat sit repudiandae voluptates quas architecto aliquid nam dolor laudantium at, molestiae cum ipsa maiores quidem excepturi sed? Ut commodi nulla suscipit consequatur, eveniet est, necessitatibus praesentium labore aperiam tenetur earum ratione illum repudiandae inventore. Veritatis.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum animi voluptates est autem alias aspernatur repellat accusamus repudiandae laborum molestiae ex eligendi, nam rerum voluptatem ea culpa magnam. Nulla officiis temporibus repellat. Laboriosam, consequatur perspiciatis quod mollitia vero earum iusto sapiente architecto ex laborum sit rem ullam? Dolor, ad neque?</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum animi voluptates est autem alias aspernatur repellat accusamus repudiandae laborum molestiae ex eligendi, nam rerum voluptatem ea culpa magnam. Nulla officiis temporibus repellat. Laboriosam, consequatur perspiciatis quod mollitia vero earum iusto sapiente architecto ex laborum sit rem ullam? Dolor, ad neque?</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum animi voluptates est autem alias aspernatur repellat accusamus repudiandae laborum molestiae ex eligendi, nam rerum voluptatem ea culpa magnam. Nulla officiis temporibus repellat. Laboriosam, consequatur perspiciatis quod mollitia vero earum iusto sapiente architecto ex laborum sit rem ullam? Dolor, ad neque?</p>
+                    Departemen Teknologi Multimedia Kreatif (DTMK) Politeknik Elektronika Negeri Surabaya (PENS) diresmikan pada tahun 2012. Departemen ini menaungi dua Program Studi (Prodi) yakni D3 Multimedia Broadcasting (MMB) dan D4 Game Technology (GT). Kedua Prodi ini, bergerak dalam bidang film, video, musik, photography, televisi, radio, dan game. Dengan bertujuan untuk menjadi pusat unggulan pendidikan teknologi multimedia dalam mengembangkan industri kreatif. Untuk mencapai hal tersebut, Departemen ini menghasilkan insan-insan kreatif dengan kemampuan penguasaan teknologi multimedia, serta berperan aktif dalam pengembangan industri kreatif di bidang multimedia. DTMK turut berperan dalam penguatan sumber daya manusia, dimana didalamnya bertugas untuk melakukan perbaikan beban mengajar sesuai standar, serta meningkatkan penelitian dan pengabdian pada masyarakat. Tidak hanya itu tetapi juga sebagai sarana dan prasarana untuk mahasiswa.
                 </div>
             </div>
         </div>

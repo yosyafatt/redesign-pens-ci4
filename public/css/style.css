@@ -341,12 +341,13 @@ section#akademik img {
   box-shadow: inset 0 4px 8px 2px rgba(0, 0, 0, 0.2);
 }
 
-.jurusan-carousel .jurusan-carousel-item a.btn {
+.jurusan-carousel .jurusan-carousel-item a.btn.btn-link {
   color: rgb(250, 206, 10);
   padding: 16px 24px;
   font-size: 16px;
   font-weight: 600;
   text-transform: uppercase;
+  text-decoration: none;
 }
 .berita .arsip-berita a.list-group-item {
   font-size: 16px;

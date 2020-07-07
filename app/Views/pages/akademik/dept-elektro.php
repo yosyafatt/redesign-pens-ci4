@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-4">
                 <h1 class="heading text-white">
-                    Diploma III
+                    Departemen Teknik Elektro
                 </h1>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>">Beranda</a></li>
@@ -87,10 +87,9 @@
             </div>
             <div class="col-md-8">
                 <div class="berita-content">
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus vitae quibusdam iste, qui, beatae fugiat sit repudiandae voluptates quas architecto aliquid nam dolor laudantium at, molestiae cum ipsa maiores quidem excepturi sed? Ut commodi nulla suscipit consequatur, eveniet est, necessitatibus praesentium labore aperiam tenetur earum ratione illum repudiandae inventore. Veritatis.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum animi voluptates est autem alias aspernatur repellat accusamus repudiandae laborum molestiae ex eligendi, nam rerum voluptatem ea culpa magnam. Nulla officiis temporibus repellat. Laboriosam, consequatur perspiciatis quod mollitia vero earum iusto sapiente architecto ex laborum sit rem ullam? Dolor, ad neque?</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum animi voluptates est autem alias aspernatur repellat accusamus repudiandae laborum molestiae ex eligendi, nam rerum voluptatem ea culpa magnam. Nulla officiis temporibus repellat. Laboriosam, consequatur perspiciatis quod mollitia vero earum iusto sapiente architecto ex laborum sit rem ullam? Dolor, ad neque?</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum animi voluptates est autem alias aspernatur repellat accusamus repudiandae laborum molestiae ex eligendi, nam rerum voluptatem ea culpa magnam. Nulla officiis temporibus repellat. Laboriosam, consequatur perspiciatis quod mollitia vero earum iusto sapiente architecto ex laborum sit rem ullam? Dolor, ad neque?</p>
+                    <p>Departemen Elektro memuat beberapa program studi yang ada sejak awal berdirinya Politeknik Elektronika Negeri Surabaya. Departemen ini mencakup tiga disiplin ilmu yakni Elektronika, Telekomunikasi, dan Elektro Industri. Departemen Elektro Politeknik Elektronika Negeri Surabaya menaungi tujuh program studi yakni D3 Teknik Elektronika, D4 Teknik Elektronika, D3 Teknik Telekomunikasi, D4 Teknik Telekomunikasi, D3 Teknik Elektro Industri, D4 Teknik Elektro Industri dan S2 Teknik Elektro.
+
+                        Departemen Elektro berdiri atas besarnya kebutuhan masyarakat akan tenaga ahli di bidang rekayasa elektronika, sistem telekomunikasi dan ketenagalistrikan industri. Departemen inipun bertujuan menjadi pusat unggulan pendidikan dan teknologi khususnya emerging technology, serta menghasilkan lulusan yang berkualitas dan kompeten di bidang Elektronika, Telekomunikasi, dan Elektro Industri.</p>
                 </div>
             </div>
         </div>
