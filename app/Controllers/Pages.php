@@ -83,4 +83,9 @@ class Pages extends BaseController
         ];
         return view('pages/berita', $data);
     }
+
+    public function cobs()
+    {
+        return view('pages/konten');
+    }
 }
