@@ -79,7 +79,7 @@
                                 <li><a href="<?= base_url(); ?>/pages/akademik/dept-tik">Dep. Teknik Informatika dan Komputer</a></li>
                                 <li><a href="<?= base_url(); ?>/pages/akademik/dept-mekanergi">Dep. Teknik Mekanika dan Energi</a></li>
                                 <li><a href="<?= base_url(); ?>/pages/akademik/dept-multimedia">Dep. Teknologi Multimedia Kreatif</a></li>
-                                <li><a href="<?= base_url(); ?>/pages/akademik/dept-pasca">Pascasarjana</a></li>
+                                <li><a href="https://pascasarjana.pens.ac.id/">Pascasarjana</a></li>
                             </ul>
                         </ul>
                     </div>
@@ -88,6 +88,17 @@
             <div class="col-md-8">
                 <div class="berita-content">
                     <p>Pada saat ini kebutuhan akan teknologi informasi memegang peranan yang sangat penting dan dimasa yang akan datang akan menjadi tulang punggung pertumbuhan ekonomi bangsa. Karena itu, Politeknik Elektronika Negeri Surabaya mendirikan Departemen Teknik Informatika dan Komputer yang terdiri dari empat program studi, yaitu D3 Teknik Informatika, D4 Teknik Informatika, D4 Teknik Komputer, serta S2 Terapan Teknik Informatika dan Komputer. Dengan tujuan menjadi pusat unggulan pendidikan teknologi rekayasa dibidang emerging technology yang terkait bidang Teknologi Informasi dan Komputer untuk menghasilkan lulusan yang siap bersaing dipasar global, Departemen Teknik Informatika dan Komputer telah banyak menghasilkan lulusan yang berkualifikasi unggul dan bekerja sebagai Programmer, Software Engineer, Hardware Designer, Network Administrator, Computer System Analyst, Manager/Supervisor, Services/Technical Support, Marketing/Sales, dan lain-lain.</p>
+                </div>
+                <div class="card">
+                    <div class="card-header">
+                        Jurusan
+                    </div>
+                    <div class="card-body">
+                        <ul>
+                            <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-it" class="card-link">Teknik Informatika</a></li>
+                            <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-tekkom" class="card-link">Teknik Komputer</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>

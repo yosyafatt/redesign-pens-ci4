@@ -79,7 +79,7 @@
                                 <li><a href="<?= base_url(); ?>/pages/akademik/dept-tik">Dep. Teknik Informatika dan Komputer</a></li>
                                 <li><a href="<?= base_url(); ?>/pages/akademik/dept-mekanergi">Dep. Teknik Mekanika dan Energi</a></li>
                                 <li><a href="<?= base_url(); ?>/pages/akademik/dept-multimedia">Dep. Teknologi Multimedia Kreatif</a></li>
-                                <li><a href="<?= base_url(); ?>/pages/akademik/dept-pasca">Pascasarjana</a></li>
+                                <li><a href="https://pascasarjana.pens.ac.id/">Pascasarjana</a></li>
                             </ul>
                         </ul>
                     </div>
