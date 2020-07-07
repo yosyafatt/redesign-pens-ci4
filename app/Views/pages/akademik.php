@@ -29,7 +29,7 @@
                         <h3 class="heading card-title">Diploma III</h3>
                         <p class="card-text">Lulusannya dari jenjang D3 akan memiliki gelar A.Md atau Ahli Madya dengan menempuh pendidikan selama 3 tahun atau setidaknya 112 SKS.</p>
                         <div>
-                            <a href="#" class="btn shadow-sm btn-custom">Selengkapnya <span class="ml-4"><i class="fas fa-arrow-right"></i></span></a>
+                            <a href="<?= current_url(); ?>/prodi-d3" class="btn shadow-sm btn-custom">Selengkapnya <span class="ml-4"><i class="fas fa-arrow-right"></i></span></a>
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                         <h3 class="heading card-title">Sarjana Terapan</h3>
                         <p class="card-text"> Sarjana Terapan kerap disebut juga Diploma 4. Bedanya Sarjana Terapan lebih mempelajari ilmu-ilmu praktik atau ilmu-ilmu terapan. Lulusannya akan mendapat gelar S.Tr.Kom.</p>
                         <div>
-                            <a href="#" class="btn shadow-sm btn-custom">Selengkapnya <span class="ml-4"><i class="fas fa-arrow-right"></i></span></a>
+                            <a href="<?= current_url(); ?>/prodi-d4" class="btn shadow-sm btn-custom">Selengkapnya <span class="ml-4"><i class="fas fa-arrow-right"></i></span></a>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                         <h3 class="heading card-title">Pascasarjana</h3>
                         <p class="card-text">Menjadi politeknik yang memulai program Pascasarjana Terapan pertama di Indonesia. PENS, sebagai awalannya membuka Progam Studi Teknik Elektro serta Teknik Informatika dan Komputer</p>
                         <div>
-                            <a href="#" class="btn shadow-sm btn-custom">Selengkapnya <span class="ml-4"><i class="fas fa-arrow-right"></i></span></a>
+                            <a href="<?= current_url(); ?>/prodi-s2" class="btn shadow-sm btn-custom">Selengkapnya <span class="ml-4"><i class="fas fa-arrow-right"></i></span></a>
                         </div>
                     </div>
                 </div>
@@ -65,9 +65,9 @@
             <div class="col text-center">
                 <h2 class="heading text-white mb-3">Jurusan</h2>
                 <div class="jurusan-carousel owl-carousel owl-theme ">
-                    <div class="jurusan-carousel-item rounded-pill">
+                    <a href="<?= current_url(); ?>/jurusan-elka" class="jurusan-carousel-item rounded-pill">
                         <p>Teknik Elektronika</p>
-                    </div>
+                    </a>
                     <div class="jurusan-carousel-item rounded-pill">
                         <p>Teknik Telekomunikasi</p>
                     </div>
