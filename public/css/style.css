@@ -206,13 +206,13 @@ section#akademik img {
 }
 
 .sub-section#penerimaan {
-  background-image: url("/img/bg-d4.jpg");
+  background-image: url("/public/img/bg-d4.jpg");
 }
 .sub-section#poster {
-  background-image: url("/img/bg-lapbas.png");
+  background-image: url("/public/img/bg-lapbas.png");
 }
 .sub-section#stayconnected {
-  background-image: url("/img/bg-lapmer.png");
+  background-image: url("/public/img/bg-lapmer.png");
 }
 
 .sub-section#stayconnected h1 {
