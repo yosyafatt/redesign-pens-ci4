@@ -33,13 +33,27 @@ class Pages extends BaseController
         return view('pages/beranda', $data);
     }
 
-    public function akademik()
+    public function akademik($subpage)
     {
         $data = [
             'title' => 'Akademik - ',
             'page_name' => 'akademik',
         ];
-        return view('pages/akademik', $data);
+        switch ($subpage) {
+            case 'Jurusan':
+                echo 'Jurusan page';
+                break;
+            case 'Jurusan':
+                echo 'Jurusan page';
+                break;
+            case 'Jurusan':
+                echo 'Jurusan page';
+                break;
+
+            default:
+                return view('pages/akademik', $data);
+                break;
+        }
     }
 
     public function layanan()
