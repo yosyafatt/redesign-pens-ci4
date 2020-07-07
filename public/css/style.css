@@ -1,0 +1,522 @@
+/* Font Family */
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap");
+
+/* Global */
+* {
+  font-family: "Nunito Sans", sans-serif;
+}
+body {
+  background-color: #fff;
+}
+p {
+  font-size: 14px;
+}
+
+.breadcrumb {
+  background-color: transparent;
+  font-size: 12px;
+  font-weight: 300;
+  margin-bottom: 8px;
+  padding: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.breadcrumb .breadcrumb-item a {
+  text-decoration: none;
+  color: rgb(20, 71, 122);
+}
+.breadcrumb .breadcrumb-item a:hover {
+  font-weight: 600;
+}
+.btn-custom {
+  border-radius: 0;
+  background-color: rgb(243, 200, 4);
+  color: rgb(20, 71, 122);
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.btn-custom:hover {
+  color: rgb(15, 54, 94);
+  background-color: rgb(250, 206, 10);
+}
+.heading {
+  font-family: "Noto Sans", sans-serif;
+  color: rgb(20, 71, 122);
+}
+.sticky {
+  position: fixed;
+  top: 0;
+}
+/* Navbar */
+.bahasa {
+  padding-left: 6px;
+  border-left: solid thin rgb(217, 179, 5);
+}
+.logo-pens img {
+  height: 75px;
+}
+.mainNav.navbar {
+  background-color: rgb(20, 71, 122);
+  box-shadow: 0 4px 7px 2px rgba(0, 0, 0, 0.2);
+  height: 65px;
+  padding: 0;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}
+.mainNav li.nav-item {
+  margin: 0 2px;
+  padding: 0 6px;
+  transition: all ease-in-out 0.15s;
+}
+.mainNav li.nav-item a {
+  color: #ddd;
+  font-size: 12px;
+  letter-spacing: 0.6px;
+  font-weight: 600;
+}
+.mainNav li.nav-item:hover,
+.mainNav li.nav-item.active {
+  border-radius: 16px;
+  background-color: rgb(15, 54, 94);
+  box-shadow: inset 0 2px 4px 1px rgba(0, 0, 0, 0.2);
+}
+.mainNav li.nav-item a:hover,
+.mainNav li.nav-item a.active {
+  color: rgb(243, 200, 4);
+}
+.mainNav li.nav-item.submission a {
+  color: rgb(243, 200, 4);
+  font-weight: 700;
+}
+.mainNav .navbar-brand img {
+  height: 39px;
+}
+.topnav,
+.topnav .container {
+  background-color: rgb(243, 200, 4);
+  height: 35px;
+}
+
+.topnav .dropdown-menu {
+  border-radius: 0 !important;
+  border: none;
+  margin: 0;
+  padding: 0;
+  box-shadow: 0 4px 8px 2px rgba(0, 0, 0, 0.2);
+}
+
+.topnav .dropdown-item {
+  padding: 0.55rem 1.5rem;
+  transition: all ease-in-out 0.1s;
+}
+
+.topnav .dropdown-item:hover {
+  color: rgb(243, 200, 4);
+  background-color: rgb(20, 71, 122);
+}
+
+.topnav .dropdown:hover > a {
+  color: rgb(243, 200, 4);
+  background-color: rgb(20, 71, 122);
+}
+
+.topnav .dropdown:hover > .dropdown-menu {
+  display: block;
+}
+
+.topnav ul li {
+  height: 35px;
+}
+
+.topnav ul li a {
+  color: #333;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0.6px;
+}
+
+/* end of Navbar */
+
+/* Carousel */
+#mainCarousel .carousel-item {
+  height: calc(100vh - 100px);
+  position: relative;
+  text-shadow: 2px 2px 4px #333;
+  transition: transform 2s ease, opacity 0.5s ease-out;
+}
+
+#mainCarousel .carousel-item img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  object-fit: cover;
+}
+
+/* end of Carousel */
+
+/* Sections */
+section.beranda {
+  padding: 56px 0;
+}
+
+section#akademik .card {
+  box-shadow: -2px 1px 4px 0px rgba(0, 0, 0, 0.1);
+  border: none;
+  margin-left: 24px;
+  padding: 0 24px;
+  transition: ease 0.25s;
+}
+section#akademik .card:hover {
+  box-shadow: -8px 4px 16px 0px rgba(20, 71, 122, 0.25);
+}
+
+section#akademik img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.listberita ul li {
+  font-size: 12px;
+  margin-bottom: 16px;
+}
+
+.listberita ul li img {
+  width: 25%;
+  align-self: center;
+}
+
+/* end of Sections */
+
+/* Sub-Sections */
+.sub-section {
+  background-color: rgb(20, 71, 122);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  padding: 64px 0;
+}
+.sub-section a.btn-custom {
+  font-size: 16px;
+  float: right;
+}
+
+.sub-section#penerimaan {
+  background-image: url("/img/bg-d4.jpg");
+}
+.sub-section#poster {
+  background-image: url("/img/bg-lapbas.png");
+}
+.sub-section#stayconnected {
+  background-image: url("/img/bg-lapmer.png");
+}
+
+.sub-section#stayconnected h1 {
+  color: rgb(243, 200, 4);
+}
+
+.sub-section#stayconnected a {
+  font-size: 48px;
+}
+
+.sub-section#stayconnected a.btn:hover {
+  color: rgb(243, 200, 4) !important;
+}
+/* end of Sub-Sections */
+
+/* Main Content */
+.main-content {
+  padding-top: 88px;
+}
+
+.main-content .col-md-8,
+.main-content .col-md-4 {
+  padding: 0 48px;
+}
+.page-header .container {
+  position: relative;
+  /* background-color: rgb(20, 71, 122); */
+}
+
+.page-header .carousel-item {
+  height: 320px;
+  transition: transform 2s ease, opacity 0.5s ease-out;
+}
+
+.page-header img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  position: absolute;
+  right: 0;
+  vertical-align: middle;
+}
+.page-header .col-md-4 {
+  background-color: rgb(20, 71, 122);
+  display: flex;
+  flex-direction: column-reverse;
+  height: 240px;
+  padding: 0 32px;
+  padding-bottom: 16px;
+}
+
+.page-header ol.breadcrumb li.breadcrumb-item a {
+  color: rgba(243, 200, 4, 0.8);
+  font-weight: 300;
+  text-decoration: none;
+  max-width: 150px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.page-header ol.breadcrumb li.breadcrumb-item.active a {
+  color: rgba(243, 200, 4);
+  font-weight: 500;
+}
+
+.page-header ol.breadcrumb li.breadcrumb-item a:hover {
+  color: rgba(243, 200, 4);
+  font-weight: 500;
+}
+
+.page-header .col-md-8 {
+  padding: 0;
+}
+
+.main-content.berita {
+  padding-top: 48px;
+}
+
+.akademik-page .card {
+  height: 100%;
+  padding: 48px;
+  border-radius: 0;
+  transition: 0.2s;
+}
+.akademik-page .card:hover {
+  box-shadow: 0 4px 8px 2px rgba(0, 0, 0, 0.2);
+}
+.akademik-page .card .card-body {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.akademik-program-lain .list-group .list-group-item {
+  color: #333;
+  border-radius: 0;
+  white-space: nowrap;
+  text-overflow: clip;
+}
+.akademik-program-lain .list-group .list-group-item:hover {
+  text-decoration: none;
+  font-weight: 700;
+  background-color: rgb(243, 200, 4);
+}
+
+.jurusan-carousel .owl-stage {
+  display: flex;
+  align-items: center;
+}
+
+.jurusan-carousel .jurusan-carousel-item {
+  background-color: rgb(15, 54, 94);
+}
+.jurusan-carousel .jurusan-carousel-item:hover {
+  box-shadow: inset 0 4px 8px 2px rgba(0, 0, 0, 0.2);
+}
+
+.jurusan-carousel .jurusan-carousel-item p {
+  color: rgb(250, 206, 10);
+  padding: 16px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.berita .arsip-berita a.list-group-item {
+  font-size: 16px;
+  display: flex;
+  height: 36px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.berita .arsip-berita .badge {
+  color: #fff;
+  background-color: rgb(20, 71, 122);
+  transition: all ease-in-out 0.15s;
+}
+.berita .arsip-berita .badge:hover {
+  color: rgb(20, 71, 122);
+  background-color: rgb(250, 206, 10);
+}
+
+.berita .col-md-8 {
+  padding: 0;
+}
+
+.berita .card {
+  height: 100%;
+  border-radius: 0;
+  transition: 0.25s;
+}
+.berita .card:hover {
+  box-shadow: 8px 4px 24px 0px rgba(0, 0, 0, 0.1);
+}
+
+.berita .card-img,
+.berita .card-img-top {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.berita .nav-tabs > li > a {
+  color: rgb(20, 71, 122);
+}
+.berita .nav-tabs .nav-link {
+  background-color: rgba(20, 71, 122, 0.1);
+  border: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  transition: 0.1s;
+}
+.berita .nav-tabs .nav-link:not(.active):hover {
+  background-color: rgb(243, 200, 4);
+}
+.berita .nav-tabs > li > a.active {
+  color: rgb(243, 200, 4);
+  background-color: rgb(20, 71, 122);
+}
+.berita .tab-content .tab-pane {
+  min-height: 340px;
+}
+.berita .tab-content > .tab-pane.active {
+  background-color: rgb(20, 71, 122);
+}
+
+.berita-meta {
+  font-size: 12px;
+  margin-bottom: 24px;
+}
+
+.berita-meta li.list-inline-item {
+  margin-right: 12px;
+}
+
+.berita-content {
+  font-size: 14px;
+}
+
+.berita-content p,
+.berita-content figure {
+  margin: 16px 0;
+}
+
+/* end of Main Content */
+
+/* Sidebar */
+.sidebar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar ul li {
+  color: rgb(20, 71, 122);
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: 700;
+  border-top: 1px solid rgb(243, 200, 4);
+  transition: 0.3s;
+}
+
+.sidebar ul li:hover {
+  transform: translateX(16px);
+}
+
+.sidebar ul li a {
+  color: rgb(20, 71, 122);
+  text-decoration: none;
+}
+
+.sidebar ul li a:hover {
+  text-decoration: none;
+}
+
+.sidebar .heading {
+  margin-bottom: 24px;
+}
+
+.sidebar .accordion ul {
+  transition: 0.5s;
+}
+
+.sidebar .accordion ul li:hover {
+  background-color: #f3f3f3;
+  transform: none;
+}
+
+.sidebar .accordion ul.accordionParent li {
+  font-weight: 700;
+  border-top: 1px solid rgb(243, 200, 4);
+}
+
+.sidebar .accordion ul.accordionChild {
+  margin-left: 24px;
+}
+
+.sidebar .accordion ul.accordionChild li {
+  font-weight: 500;
+  border-top: 1px solid #ddd;
+
+  transition: 0.3s;
+}
+
+.sidebar .accordion ul.accordionChild li:hover {
+  transform: translateX(16px);
+}
+
+.sidebar .accordion ul.accordionChild li a:hover {
+  color: rgb(20, 71, 122);
+}
+/* end of Sidebar */
+
+/* Footer */
+footer {
+  background-color: rgb(20, 71, 122);
+  border-bottom: 16px solid rgb(243, 200, 4);
+}
+
+footer span {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.7px;
+  text-transform: uppercase;
+}
+
+footer p,
+footer a {
+  color: #fff;
+  font-size: 12px;
+  margin: 0;
+}
+
+footer a:hover {
+  color: rgb(243, 200, 4);
+}
+
+footer .stayconnected a {
+  font-size: 24px;
+}
+
+footer .stayconnected a.btn:hover {
+  color: rgb(243, 200, 4) !important;
+}
+
+/* end of Footer */
