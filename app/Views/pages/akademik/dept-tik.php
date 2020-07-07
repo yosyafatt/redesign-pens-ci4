@@ -61,12 +61,13 @@
                             </li>
                             <ul id="collapseThree" class="collapse accordionChild" data-parent="#accordion">
                                 <li><a href="https://pmb.pens.ac.id/index.php/snmpn">SNMPN</a></li>
-                                <li><a href="#">SBMPN</a></li>
-                                <li><a href="#">SIMANDIRI</a></li>
-                                <li><a href="#">Pascasarjana</a></li>
-                                <li><a href="#">Pendidikan Jarak Jauh</a></li>
-                                <li><a href="#">Kerjasama Dinas PLN</a></li>
-                                <li><a href="#">Kerjasama Dinas GMF</a></li>
+                                <li><a href="https://pmb.pens.ac.id/index.php/sbmpn">SBMPN</a></li>
+                                <li><a href="https://pmb.pens.ac.id/index.php/simandiri">SIMANDIRI</a></li>
+                                <li><a href="https://pmb.pens.ac.id/index.php/pascasarjana">Pascasarjana</a></li>
+                                <li><a href="https://pmb.pens.ac.id/index.php/pjj">Pendidikan Jarak Jauh (PJJ)</a></li>
+                                <li><a href="https://pmb.pens.ac.id/index.php/psdku-pjj-pens">Program Studi Di Luar Kampus Utama (PSDKU - PJJ)</a></li>
+                                <li><a href="https://pmb.pens.ac.id/index.php/lanjut-jenjang-d4">Lanjut Jenjang D4</a></li>
+                                <li><a href="https://pmb.pens.ac.id/index.php/kerjasama-pln">Kerjasama Dinas PLN</a></li>
                             </ul>
                         </ul>
                         <ul class="accordionParent">

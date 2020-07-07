@@ -67,7 +67,7 @@ a.btn-custom {
   box-shadow: 0 4px 7px 2px rgba(0, 0, 0, 0.2);
   height: 65px;
   padding: 0;
-  /* position: sticky; */
+  position: sticky;
   top: 0;
   border-top: solid 1px rgb(20, 71, 122);
   z-index: 99;
