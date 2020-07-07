@@ -87,10 +87,25 @@
             </div>
             <div class="col-md-8">
                 <div class="berita-content">
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus vitae quibusdam iste, qui, beatae fugiat sit repudiandae voluptates quas architecto aliquid nam dolor laudantium at, molestiae cum ipsa maiores quidem excepturi sed? Ut commodi nulla suscipit consequatur, eveniet est, necessitatibus praesentium labore aperiam tenetur earum ratione illum repudiandae inventore. Veritatis.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum animi voluptates est autem alias aspernatur repellat accusamus repudiandae laborum molestiae ex eligendi, nam rerum voluptatem ea culpa magnam. Nulla officiis temporibus repellat. Laboriosam, consequatur perspiciatis quod mollitia vero earum iusto sapiente architecto ex laborum sit rem ullam? Dolor, ad neque?</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum animi voluptates est autem alias aspernatur repellat accusamus repudiandae laborum molestiae ex eligendi, nam rerum voluptatem ea culpa magnam. Nulla officiis temporibus repellat. Laboriosam, consequatur perspiciatis quod mollitia vero earum iusto sapiente architecto ex laborum sit rem ullam? Dolor, ad neque?</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum animi voluptates est autem alias aspernatur repellat accusamus repudiandae laborum molestiae ex eligendi, nam rerum voluptatem ea culpa magnam. Nulla officiis temporibus repellat. Laboriosam, consequatur perspiciatis quod mollitia vero earum iusto sapiente architecto ex laborum sit rem ullam? Dolor, ad neque?</p>
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col">
+                                    <h5 class="heading">Jurusan</h5>
+                                    <ul class="list-unstyled ml-2">
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-elka" class="card-link">Teknik Elektronika</a></li>
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-elin" class="card-link">Teknik Elektro Industri</a></li>
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-telkom" class="card-link">Teknik Telekomunikasi</a></li>
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-it" class="card-link">Teknik Informatika</a></li>
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-meka" class="card-link">Teknik Mekatronika</a></li>
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-spe" class="card-link">Sistem Pembangkit Energi</a></li>
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-game" class="card-link">Teknologi Game</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col"></div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
