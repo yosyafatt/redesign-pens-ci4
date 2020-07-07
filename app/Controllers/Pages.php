@@ -33,7 +33,7 @@ class Pages extends BaseController
         return view('pages/beranda', $data);
     }
 
-    public function akademik($subpage)
+    public function akademik($subpage = '')
     {
         $data = [
             'title' => 'Akademik - ',
