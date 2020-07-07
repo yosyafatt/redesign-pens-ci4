@@ -10,11 +10,12 @@
                 </h1>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>">Beranda</a></li>
-                    <li class="breadcrumb-item active"><a href="<?= base_url(); ?>/pages/akademik">Akademik</a></li>
+                    <li class="breadcrumb-item"><a href="<?= base_url(); ?>/pages/akademik">Akademik</a></li>
+                    <li class="breadcrumb-item active"><a href="<?= base_url(); ?>/pages/akademik">Kontennya</a></li>
                 </ol>
             </div>
             <div class="col-md-8">
-                <img src="<?= base_url(); ?>/img/mhs2.jpg" style="object-position: bottom;" alt="">
+                <img src="<?= base_url(); ?>/public/img/mhs2.jpg" style="object-position: bottom;" alt="">
             </div>
         </div>
     </div>
