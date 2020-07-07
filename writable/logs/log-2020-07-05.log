@@ -1,0 +1,77 @@
+CRITICAL - 2020-07-05 10:18:31 --> Undefined variable: berita
+#0 C:\XAMPP\htdocs\pensci4\app\Views\admin\vberita.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMPP\\htdocs...', 16, Array)
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\XAMPP\\htdocs...')
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('admin/vberita', Array, true)
+#3 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(57): view('admin/vberita')
+#4 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->listBerita()
+#5 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\XAMPP\htdocs\pensci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-05 10:19:30 --> Undefined index: judul
+#0 C:\XAMPP\htdocs\pensci4\app\Views\admin\vberita.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\XAMPP\\htdocs...', 19, Array)
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\XAMPP\\htdocs...')
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('admin/vberita', Array, true)
+#3 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(22): view('admin/vberita', Array)
+#4 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\XAMPP\htdocs\pensci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-05 10:20:15 --> Undefined variable: berita
+#0 C:\XAMPP\htdocs\pensci4\app\Views\admin\vberita.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMPP\\htdocs...', 16, Array)
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\XAMPP\\htdocs...')
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('admin/vberita', Array, true)
+#3 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(57): view('admin/vberita')
+#4 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->listBerita()
+#5 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\XAMPP\htdocs\pensci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-05 10:23:06 --> Undefined variable: berita
+#0 C:\XAMPP\htdocs\pensci4\app\Views\admin\vberita.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMPP\\htdocs...', 16, Array)
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\XAMPP\\htdocs...')
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('admin/vberita', Array, true)
+#3 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(61): view('admin/vberita')
+#4 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->listBerita()
+#5 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\XAMPP\htdocs\pensci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-05 11:01:39 --> Unknown column 'updated_at' in 'field list'
+#0 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `be...')
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `be...')
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `be...')
+#3 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `be...', Array, false)
+#4 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Model.php(729): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Model.php(557): CodeIgniter\Model->insert(Array, false)
+#6 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(52): CodeIgniter\Model->save(Array)
+#7 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->saveberita()
+#8 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\XAMPP\htdocs\pensci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#12 {main}
+CRITICAL - 2020-07-05 11:49:51 --> Undefined property: App\Controllers\Admin::$pengumumanModel
+#0 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\XAMPP\\htdocs...', 64, Array)
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->listpengumuman()
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\XAMPP\htdocs\pensci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-05 11:54:16 --> Undefined variable: berita
+#0 C:\XAMPP\htdocs\pensci4\app\Views\admin\vagenda.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMPP\\htdocs...', 32, Array)
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\XAMPP\\htdocs...')
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('admin/vagenda', Array, true)
+#3 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(65): view('admin/vagenda', Array)
+#4 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->listagenda()
+#5 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\XAMPP\htdocs\pensci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#9 {main}

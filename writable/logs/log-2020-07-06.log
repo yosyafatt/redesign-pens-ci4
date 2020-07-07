@@ -1,0 +1,119 @@
+CRITICAL - 2020-07-06 01:26:18 --> Call to a member function store() on string
+#0 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->saveberita()
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMPP\htdocs\pensci4\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 01:27:57 --> Call to a member function store() on null
+#0 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->saveberita()
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMPP\htdocs\pensci4\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 04:58:52 --> Call to a member function store() on null
+#0 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->saveberita()
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMPP\htdocs\pensci4\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 05:36:07 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\XAMPP\\htdocs...', 212, Array)
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(212): mkdir('C:\\XAMPP\\htdocs...', 511, true)
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(163): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\XAMPP\\htdocs...')
+#3 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(409): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\XAMPP\\htdocs...', '1594031767_3794...')
+#4 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(47): CodeIgniter\HTTP\Files\UploadedFile->store('C:\\XAMPP\\htdocs...')
+#5 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->saveberita()
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMPP\htdocs\pensci4\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-06 05:36:55 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\XAMPP\\htdocs...', 212, Array)
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(212): mkdir('C:\\XAMPP\\htdocs...', 511, true)
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(163): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\XAMPP\\htdocs...')
+#3 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(409): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\XAMPP\\htdocs...', '1594031815_dd40...')
+#4 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(47): CodeIgniter\HTTP\Files\UploadedFile->store('C:\\XAMPP\\htdocs...')
+#5 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->saveberita()
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMPP\htdocs\pensci4\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-06 05:37:26 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\XAMPP\\htdocs...', 212, Array)
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(212): mkdir('C:\\XAMPP\\htdocs...', 511, true)
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(163): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\XAMPP\\htdocs...')
+#3 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(409): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\XAMPP\\htdocs...', '1594031846_a32a...')
+#4 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(47): CodeIgniter\HTTP\Files\UploadedFile->store('C:\\XAMPP\\htdocs...')
+#5 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->saveberita()
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMPP\htdocs\pensci4\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-06 05:42:08 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\XAMPP\\htdocs...', 212, Array)
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(212): mkdir('C:\\XAMPP\\htdocs...', 511, true)
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(163): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\XAMPP\\htdocs...')
+#3 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(409): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\XAMPP\\htdocs...', '1594032128_13fb...')
+#4 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(47): CodeIgniter\HTTP\Files\UploadedFile->store('C:\\XAMPP\\htdocs...')
+#5 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->saveberita()
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMPP\htdocs\pensci4\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-06 05:42:29 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\XAMPP\\htdocs...', 212, Array)
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(212): mkdir('C:\\XAMPP\\htdocs...', 511, true)
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(163): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\XAMPP\\htdocs...')
+#3 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(409): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\XAMPP\\htdocs...', '1594032149_79ba...')
+#4 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(47): CodeIgniter\HTTP\Files\UploadedFile->store('C:\\XAMPP\\htdocs...')
+#5 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->saveberita()
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMPP\htdocs\pensci4\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#10 {main}
+CRITICAL - 2020-07-06 06:08:22 --> syntax error, unexpected '?>'
+#0 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('admin/vberita', Array, true)
+#1 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(28): view('admin/vberita', Array)
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#3 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#4 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\XAMPP\htdocs\pensci4\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-06 06:46:45 --> Could not move file php639C.tmp to C:\XAMPP\htdocs\pensci4\public/uploads/ ()
+#0 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(187): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed('php639C.tmp', 'C:\\XAMPP\\htdocs...', '')
+#1 C:\XAMPP\htdocs\pensci4\app\Controllers\Admin.php(47): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\XAMPP\\htdocs...', 'C:\\XAMPP\\tmp\\ph...')
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Admin->saveberita()
+#3 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#4 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\XAMPP\htdocs\pensci4\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-06 07:54:30 --> Argument 1 passed to CodeIgniter\Model::findAll() must be of the type int, string given, called in C:\XAMPP\htdocs\pensci4\app\Models\BeritaModel.php on line 17
+#0 C:\XAMPP\htdocs\pensci4\app\Models\BeritaModel.php(17): CodeIgniter\Model->findAll('')
+#1 C:\XAMPP\htdocs\pensci4\app\Controllers\Pages.php(66): App\Models\BeritaModel->getBerita()
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Pages->berita()
+#3 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#4 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\XAMPP\htdocs\pensci4\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-06 08:02:39 --> Undefined variable: img
+#0 C:\XAMPP\htdocs\pensci4\app\Views\pages\berita.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMPP\\htdocs...', 29, Array)
+#1 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\XAMPP\\htdocs...')
+#2 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('pages/berita', Array, true)
+#3 C:\XAMPP\htdocs\pensci4\app\Controllers\Pages.php(68): view('pages/berita', Array)
+#4 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Pages->berita()
+#5 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\XAMPP\htdocs\pensci4\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 C:\XAMPP\htdocs\pensci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\XAMPP\\htdocs...')
+#9 {main}
