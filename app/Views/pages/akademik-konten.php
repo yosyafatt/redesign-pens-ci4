@@ -11,7 +11,7 @@
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>">Beranda</a></li>
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>/pages/akademik">Akademik</a></li>
-                    <li class="breadcrumb-item active"><a href="<?= base_url(); ?>/pages/akademik">Kontennya</a></li>
+                    <li class="breadcrumb-item active"><a href="<?= base_url(); ?>/pages/akademik">Program Akademik</a></li>
                 </ol>
             </div>
             <div class="col-md-8">
@@ -26,7 +26,7 @@
         <div class="row">
             <div class="col-md-4 order-last">
                 <aside class="sidebar">
-                    <h5 class="heading">Akademik</h5>
+                    <h5 class="heading">Diploma III</h5>
                     <div class="accordion" id="accordion">
                         <ul class="accordionParent">
                             <li class="accordionParentItem" role="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">

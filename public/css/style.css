@@ -423,7 +423,7 @@ section#akademik img {
 
 .berita-content p,
 .berita-content figure {
-  margin: 16px 0;
+  margin-bottom: 16px;
 }
 
 /* end of Main Content */
