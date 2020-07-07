@@ -90,6 +90,6 @@ class Pages extends BaseController
             'title' => 'cobs',
             'page_name' => ''
         ];
-        return view('pages/konten', $data);
+        return view('pages/akademik-konten', $data);
     }
 }
