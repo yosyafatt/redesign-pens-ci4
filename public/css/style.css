@@ -30,12 +30,17 @@ p {
 .breadcrumb .breadcrumb-item a:hover {
   font-weight: 600;
 }
+
+a.btn-custom {
+  color: rgb(15, 54, 94);
+}
+
 .btn-custom {
   border-radius: 32px;
-  color: rgb(15, 54, 94);
   background-color: rgb(250, 206, 10);
   font-size: 12px;
   font-weight: 800;
+  padding-left: 24px;
   text-transform: uppercase;
   transition: transform 0.2s;
 }
@@ -203,6 +208,8 @@ section#akademik img {
 }
 .sub-section a.btn-custom {
   font-size: 16px;
+  text-decoration: none;
+  color: rgb(20, 71, 122);
   float: right;
 }
 
