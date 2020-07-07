@@ -421,6 +421,7 @@ section#akademik img {
 .berita-content,
 .akademik-content {
   font-size: 14px;
+  min-height: 800px;
 }
 
 .berita-content p,
