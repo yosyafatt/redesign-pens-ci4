@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="<?= base_url(); ?>/owl-carousel/dist/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="<?= base_url(); ?>/owl-carousel/dist/assets/owl.theme.default.min.css">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="<?= base_url(); ?>/css/style.css">
+    <link rel="stylesheet" href="/css/style.css">
     <!-- Favicon -->
     <link rel="shortcut icon" href="/img/corp-logo/favicon-primary.ico">
     <title><?= !$title ? '' : $title; ?>Politeknik Elektronika Negeri Surabaya</title>
