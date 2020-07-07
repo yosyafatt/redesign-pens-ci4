@@ -31,7 +31,7 @@
     <tbody>
         <?php foreach ($berita as $b) : ?>
             <tr>
-                <td class="text-center"><img src="/uploads/<?= $b['img']; ?>" alt="" width="100"></td>
+                <td class="text-center"><img src="/public/uploads/<?= $b['img']; ?>" alt="" width="100"></td>
                 <td><?= $b['title']; ?></td>
                 <td class="text-right"><?= $b['author']; ?></td>
                 <td class="overflow-hidden"><?= $b['content'] == true ? 'oke' : ''; ?></td>
