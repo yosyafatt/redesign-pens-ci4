@@ -41,7 +41,7 @@
                     </ul>
                     <div class="berita-content">
                         <figure class="figure">
-                            <img src="public/img/test.jpeg" class="figure-img img-fluid" alt="...">
+                            <img src="<?php base_url(); ?>/public/img/test.jpeg" class="figure-img img-fluid" alt="...">
                             <figcaption class="figure-caption text-right">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, maxime?</figcaption>
                         </figure>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus vitae quibusdam iste, qui, beatae fugiat sit repudiandae voluptates quas architecto aliquid nam dolor laudantium at, molestiae cum ipsa maiores quidem excepturi sed? Ut commodi nulla suscipit consequatur, eveniet est, necessitatibus praesentium labore aperiam tenetur earum ratione illum repudiandae inventore. Veritatis.</p>
