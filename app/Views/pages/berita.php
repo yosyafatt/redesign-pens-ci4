@@ -73,7 +73,7 @@
                     <h3 class="heading mb-4">PENS TV</h3>
                     <div class="container">
                         <div class="row">
-                            <iframe width="1079" height="608" src="https://www.youtube.com/embed/Pn6NyAUHjmE?list=PL2UaUoZhoS4UKDhjuGZ3sLGQ7Va7ZmNjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="1079" height="480" src="https://www.youtube.com/embed/Pn6NyAUHjmE?list=PL2UaUoZhoS4UKDhjuGZ3sLGQ7Va7ZmNjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
                 </section>
