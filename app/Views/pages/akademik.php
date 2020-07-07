@@ -104,23 +104,23 @@
         <div class="row justify-content-center">
             <div class="col-5">
                 <div class="list-group">
-                    <a href="" class="list-group-item">D3 Kerjasama PLN</a>
-                    <a href="" class="list-group-item">D4 Ikatan Dinas PLN</a>
-                    <a href="" class="list-group-item">D4 Lanjut Jenjang (LJ) Teknik Elektro</a>
-                    <a href="" class="list-group-item">D4 Lanjut Jenjang (LJ) Teknik Telekomunikasi</a>
-                    <a href="" class="list-group-item">D4 Lanjut Jenjang (LJ) Teknik Elektro Industri</a>
-                    <a href="" class="list-group-item">D4 Lanjut Jenjang (LJ) Teknik Informatika</a>
+                    <a href="https://pmb.pens.ac.id/index.php/kerjasama-pln" class="list-group-item">D3 Kerjasama PLN</a>
+                    <a href="https://pmb.pens.ac.id/index.php/kerjasama-pln" class="list-group-item">D4 Ikatan Dinas PLN</a>
+                    <a href="https://pmb.pens.ac.id/index.php/lanjut-jenjang-d4" class="list-group-item">D4 Lanjut Jenjang (LJ) Teknik Elektro</a>
+                    <a href="https://pmb.pens.ac.id/index.php/lanjut-jenjang-d4" class="list-group-item">D4 Lanjut Jenjang (LJ) Teknik Telekomunikasi</a>
+                    <a href="https://pmb.pens.ac.id/index.php/lanjut-jenjang-d4" class="list-group-item">D4 Lanjut Jenjang (LJ) Teknik Elektro Industri</a>
+                    <a href="https://pmb.pens.ac.id/index.php/lanjut-jenjang-d4" class="list-group-item">D4 Lanjut Jenjang (LJ) Teknik Informatika</a>
                 </div>
             </div>
             <div class="col-5">
                 <div class="list-group">
-                    <a href="" class="list-group-item">D3 PSDKU PJJ Teknik Informatika</a>
-                    <a href="" class="list-group-item">D3 PSDKU PJJ Teknologi Multimedia Broadcasting</a>
-                    <a href="" class="list-group-item">D4 LJ PJJ Teknik Telekomunikasi - Poltekbang</a>
-                    <a href="" class="list-group-item">D3 PJJ Teknik Informatika</a>
-                    <a href="" class="list-group-item">D4 PJJ Teknik Telekomunikasi</a>
-                    <a href="" class="list-group-item">D3 PJJ Teknik Informatika - SEAMEO</a>
-                    <a href="" class="list-group-item">D3 LJ PJJ Teknik Informatika dari D2 Akademi Komunitas</a>
+                    <a href="https://pmb.pens.ac.id/index.php/psdku-pjj-pens" class="list-group-item">D3 PSDKU PJJ Teknik Informatika</a>
+                    <a href="https://pmb.pens.ac.id/index.php/psdku-pjj-pens" class="list-group-item">D3 PSDKU PJJ Teknologi Multimedia Broadcasting</a>
+                    <a href="https://pmb.pens.ac.id/index.php/pjj/d4-lj-pjj-telkom-kerjasama-poltekbang/" class="list-group-item">D4 LJ PJJ Teknik Telekomunikasi - Poltekbang</a>
+                    <a href="https://pmb.pens.ac.id/index.php/pjj/" class="list-group-item">D3 PJJ Teknik Informatika</a>
+                    <a href="https://pmb.pens.ac.id/index.php/pjj/" class="list-group-item">D4 PJJ Teknik Telekomunikasi</a>
+                    <a href="https://pmb.pens.ac.id/index.php/pjj/pmb-pjj-2020-seameo/" class="list-group-item">D3 PJJ Teknik Informatika - SEAMEO</a>
+                    <a href="https://pmb.pens.ac.id/index.php/pjj/pmb-lj-pjj-2020-dari-ak/" class="list-group-item">D3 LJ PJJ Teknik Informatika dari D2 Akademi Komunitas</a>
                 </div>
             </div>
         </div>
