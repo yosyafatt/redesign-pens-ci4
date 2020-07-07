@@ -87,7 +87,7 @@ class Pages extends BaseController
     public function cobs()
     {
         $data = [
-            'title' => 'cobs',
+            'title' => 'cobs - ',
             'page_name' => ''
         ];
         return view('pages/akademik-konten', $data);
