@@ -26,7 +26,7 @@ class Pages extends BaseController
     {
         $data = [
             'title' => '',
-            'page_name' => 'beranda',
+            'page_name' => '',
             'berita' => $this->beritaModel->getBerita(false, 4),
         ];
         // dd($data);
@@ -87,7 +87,8 @@ class Pages extends BaseController
     public function cobs()
     {
         $data = [
-            'title' => 'cobs'
+            'title' => 'cobs',
+            'page_name' => ''
         ];
         return view('pages/konten', $data);
     }
