@@ -31,17 +31,15 @@ p {
   font-weight: 600;
 }
 .btn-custom {
-  border-radius: 25%;
-  background-color: rgb(243, 200, 4);
-  color: rgb(20, 71, 122);
+  border-radius: 32px;
+  color: rgb(15, 54, 94);
+  background-color: rgb(250, 206, 10);
   font-size: 12px;
   font-weight: 800;
   text-transform: uppercase;
   transition: transform 0.2s;
 }
 .btn-custom:hover {
-  color: rgb(15, 54, 94);
-  background-color: rgb(250, 206, 10);
   transform: scale(1.25);
 }
 .heading {
