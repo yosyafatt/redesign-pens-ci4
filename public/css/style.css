@@ -432,6 +432,9 @@ section#akademik img {
 .akademik-content .card {
   border-radius: 0;
 }
+.akademik-content .card ul li {
+  padding: 4px 0;
+}
 
 .akademik-content .card ul li a.card-link {
   font-size: 14px;
