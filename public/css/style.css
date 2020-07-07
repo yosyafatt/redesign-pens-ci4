@@ -31,7 +31,7 @@ p {
   font-weight: 600;
 }
 .btn-custom {
-  border-radius: 0;
+  border-radius: 50;
   background-color: rgb(243, 200, 4);
   color: rgb(20, 71, 122);
   font-size: 12px;
