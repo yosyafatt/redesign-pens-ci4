@@ -41,41 +41,40 @@ class Pages extends BaseController
         ];
         switch ($subpage) {
             case 'prodi-d3':
-                echo $subpage;
                 return view('pages/akademik/' . $subpage, $data);
                 break;
             case 'prodi-d4':
-                echo $subpage;
+                return view('pages/akademik/' . $subpage, $data);
                 break;
             case 'prodi-s2':
-                echo $subpage;
+                return view('pages/akademik/' . $subpage, $data);
                 break;
             case 'jurusan-elka':
-                echo $subpage;
+                return view('pages/akademik/' . $subpage, $data);
                 break;
             case 'jurusan-telkom':
-                echo $subpage;
+                return view('pages/akademik/' . $subpage, $data);
                 break;
             case 'jurusan-elin':
-                echo $subpage;
+                return view('pages/akademik/' . $subpage, $data);
                 break;
             case 'jurusan-it':
-                echo $subpage;
+                return view('pages/akademik/' . $subpage, $data);
                 break;
             case 'jurusan-meka':
-                echo $subpage;
+                return view('pages/akademik/' . $subpage, $data);
                 break;
             case 'jurusan-tekkom':
-                echo $subpage;
+                return view('pages/akademik/' . $subpage, $data);
                 break;
             case 'jurusan-mmb':
-                echo $subpage;
+                return view('pages/akademik/' . $subpage, $data);
                 break;
             case 'jurusan-spe':
-                echo $subpage;
+                return view('pages/akademik/' . $subpage, $data);
                 break;
             case 'jurusan-game':
-                echo $subpage;
+                return view('pages/akademik/' . $subpage, $data);
                 break;
 
             default:
