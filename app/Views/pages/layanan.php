@@ -15,7 +15,7 @@
                 </ol>
             </div>
             <div class="col-md-8">
-                <img src="<?= base_url(); ?>/img/gedungd4.jpg" alt="">
+                <img src="<?= base_url(); ?>/public/img/gedungd4.jpg" alt="">
             </div>
         </div>
     </div>

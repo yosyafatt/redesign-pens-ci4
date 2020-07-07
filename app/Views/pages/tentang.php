@@ -15,7 +15,7 @@
                 </ol>
             </div>
             <div class="col-md-8">
-                <img src="<?= base_url(); ?>/img/carousel/3.jpg" alt="">
+                <img src="<?= base_url(); ?>/public/img/carousel/3.jpg" alt="">
             </div>
         </div>
     </div>
@@ -27,7 +27,7 @@
             <div class="row justify-content-center">
                 <div class="col-6" style="background-color: aqua;"></div>
                 <div class="col-5 d-flex">
-                    <img class="align-middle" width='320' src="<?= base_url(); ?>/img/corp-logo/primary-logo.svg" alt="">
+                    <img class="align-middle" width='320' src="<?= base_url(); ?>/public/img/corp-logo/primary-logo.svg" alt="">
                 </div>
             </div>
             <div class="row">
@@ -51,7 +51,7 @@
 
                     <div class="berita-content">
                         <figure class="figure">
-                            <img src="<?= base_url(); ?>/img/tentang-pens.jpg" class="figure-img img-fluid" alt="...">
+                            <img src="<?= base_url(); ?>/public/img/tentang-pens.jpg" class="figure-img img-fluid" alt="...">
                             <figcaption class="figure-caption text-right">Gedung D4 PENS</figcaption>
                         </figure>
                         <p>Awal sejarah PENS dimulai pada tahun 1985. Saat itu, tim studi awal Japan International Cooperation Agency (JICA) untuk bantuan dan kerjasama teknik yang dikepalai oleh Prof. Y. Naito dari Tokyo Institute of Technology, datang ke politeknik ini. Setelah melakukan pengamatan dan studi kelayakan di tahun 1986, JICA menyetujui untuk memulai kerjasama teknik di tahun 1987 dengan mengirim 5 orang pengajar Indonesia ke perguruan tinggi teknologi di Jepang.

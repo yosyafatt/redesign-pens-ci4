@@ -48,7 +48,7 @@
                 </li>
                 <li class="nav-item bahasa">
                     <a href="#" class="nav-link">
-                        <img class="mr-2" src="/img/lang/eng.svg" alt="english" style="height: 13px;">
+                        <img class="mr-2" src="/public/img/lang/eng.svg" alt="english" style="height: 13px;">
                     </a>
                 </li>
             </ul>
@@ -59,7 +59,7 @@
 <nav id="mainNav" class="navbar navbar-expand-lg mainNav">
     <div class="container">
         <a href="<?= base_url(); ?>" class="navbar-brand">
-            <img src="<?= base_url(); ?>/img/corp-logo/inline-logo-white.svg" alt="Politeknik Elektronika Negeri Surabaya">
+            <img src="<?= base_url(); ?>/public/img/corp-logo/inline-logo-white.svg" alt="Politeknik Elektronika Negeri Surabaya">
         </a>
         <div class="navbar-toggler-right">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsemainNav" aria-controls="collapsemainNav" aria-expanded="false" aria-label="Toggle navigation">
