@@ -66,31 +66,31 @@
                 <h2 class="heading text-white mb-3">Jurusan</h2>
                 <div class="jurusan-carousel owl-carousel owl-theme ">
                     <div class="jurusan-carousel-item rounded-pill">
-                        <a href="<?= current_url() ?>/jurusan-elka" class="btn btn-transparent">Teknik Elektronika</a>
+                        <a href="<?= current_url() ?>/jurusan-elka" class="btn btn-link">Teknik Elektronika</a>
                     </div>
                     <div class="jurusan-carousel-item rounded-pill">
-                        <a href="<?= current_url() ?>/jurusan-telkom" class="btn btn-transparent">Teknik Telekomunikasi</a>
+                        <a href="<?= current_url() ?>/jurusan-telkom" class="btn btn-link">Teknik Telekomunikasi</a>
                     </div>
                     <div class="jurusan-carousel-item rounded-pill">
-                        <a href="<?= current_url() ?>/jurusan-elin" class="btn btn-transparent">Teknik Elektro Industri</a>
+                        <a href="<?= current_url() ?>/jurusan-elin" class="btn btn-link">Teknik Elektro Industri</a>
                     </div>
                     <div class="jurusan-carousel-item rounded-pill">
-                        <a href="<?= current_url() ?>/jurusan-it" class="btn btn-transparent">Teknik Informatika</a>
+                        <a href="<?= current_url() ?>/jurusan-it" class="btn btn-link">Teknik Informatika</a>
                     </div>
                     <div class="jurusan-carousel-item rounded-pill">
-                        <a href="<?= current_url() ?>/jurusan-tekkom" class="btn btn-transparent">Teknik Komputer</a>
+                        <a href="<?= current_url() ?>/jurusan-tekkom" class="btn btn-link">Teknik Komputer</a>
                     </div>
                     <div class="jurusan-carousel-item rounded-pill">
-                        <a href="<?= current_url() ?>/jurusan-meka" class="btn btn-transparent">Teknik Mekatronika</a>
+                        <a href="<?= current_url() ?>/jurusan-meka" class="btn btn-link">Teknik Mekatronika</a>
                     </div>
                     <div class="jurusan-carousel-item rounded-pill">
-                        <a href="<?= current_url() ?>/jurusan-spe" class="btn btn-transparent">Sistem Pembangkit Energi</a>
+                        <a href="<?= current_url() ?>/jurusan-spe" class="btn btn-link">Sistem Pembangkit Energi</a>
                     </div>
                     <div class="jurusan-carousel-item rounded-pill">
-                        <a href="<?= current_url() ?>/jurusan-mmb" class="btn btn-transparent">Teknologi Multimedia dan Broadcasting</a>
+                        <a href="<?= current_url() ?>/jurusan-mmb" class="btn btn-link">Teknologi Multimedia dan Broadcasting</a>
                     </div>
                     <div class="jurusan-carousel-item rounded-pill">
-                        <a href="<?= current_url() ?>/jurusan-game" class="btn btn-transparent">Teknologi Game</a>
+                        <a href="<?= current_url() ?>/jurusan-game" class="btn btn-link">Teknologi Game</a>
                     </div>
                 </div>
             </div>
