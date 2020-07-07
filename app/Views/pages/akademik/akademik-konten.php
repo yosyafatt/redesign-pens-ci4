@@ -78,7 +78,7 @@
                                 <li><a href="">Dep. Teknik Informatika dan Komputer</a></li>
                                 <li><a href="">Dep. Teknik Mekanika dan Energi</a></li>
                                 <li><a href="">Dep. Teknologi Multimedia Kreatif</a></li>
-                                <li><a href="<?= site_url(); ?>">Pascasarjana</a></li>
+                                <li><a href="<?= current_url() ?>">Pascasarjana</a></li>
                             </ul>
                         </ul>
                     </div>
