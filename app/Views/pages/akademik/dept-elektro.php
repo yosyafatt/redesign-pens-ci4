@@ -32,7 +32,7 @@
                             <li class="accordionParentItem" role="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                 Jurusan <i class="fas fa-sort-down float-right"></i>
                             </li>
-                            <ul id="collapseOne" class="collapse accordionChild show" data-parent="#accordion">
+                            <ul id="collapseOne" class="collapse accordionChild" data-parent="#accordion">
                                 <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-elka">Teknik Elektronika</a></li>
                                 <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-telkom">Teknik Telekomunikasi</a></li>
                                 <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-elin">Teknik Elektro Industri</a></li>
@@ -49,7 +49,7 @@
                             <li class="accordionParentItem" role="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
                                 Program Studi <i class="fas fa-sort-down float-right"></i>
                             </li>
-                            <ul id="collapseTwo" class="collapse accordionChild show" data-parent="#accordion">
+                            <ul id="collapseTwo" class="collapse accordionChild" data-parent="#accordion">
                                 <li><a href="<?= base_url(); ?>/pages/akademik/prodi-d3">Diploma III</a></li>
                                 <li><a href="<?= base_url(); ?>/pages/akademik/prodi-d4">Sarjana Terapan</a></li>
                                 <li><a href="<?= base_url(); ?>/pages/akademik/prodi-s2">Pascasarjana</a></li>
@@ -74,7 +74,7 @@
                             <li class="accordionParentItem" role="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                                 Departemen <i class="fas fa-sort-down float-right"></i>
                             </li>
-                            <ul id="collapseFour" class="collapse accordionChild" data-parent="#accordion">
+                            <ul id="collapseFour" class="collapse accordionChild show" data-parent="#accordion">
                                 <li><a href="<?= base_url(); ?>/pages/akademik/dept-elektro">Dep. Teknik Elektro</a></li>
                                 <li><a href="<?= base_url(); ?>/pages/akademik/dept-tik">Dep. Teknik Informatika dan Komputer</a></li>
                                 <li><a href="<?= base_url(); ?>/pages/akademik/dept-mekanergi">Dep. Teknik Mekanika dan Energi</a></li>
