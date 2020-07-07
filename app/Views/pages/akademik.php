@@ -65,33 +65,33 @@
             <div class="col text-center">
                 <h2 class="heading text-white mb-3">Jurusan</h2>
                 <div class="jurusan-carousel owl-carousel owl-theme ">
-                    <div class="jurusan-carousel-item rounded-pill">
-                        <a>Teknik Elektronika</a>
-                    </div>
-                    <div class="jurusan-carousel-item rounded-pill">
-                        <a>Teknik Telekomunikasi</a>
-                    </div>
-                    <div class="jurusan-carousel-item rounded-pill">
-                        <a>Teknik Elektro Industri</a>
-                    </div>
-                    <div class="jurusan-carousel-item rounded-pill">
-                        <a>Teknik Informatika</a>
-                    </div>
-                    <div class="jurusan-carousel-item rounded-pill">
-                        <a>Teknik Komputer</a>
-                    </div>
-                    <div class="jurusan-carousel-item rounded-pill">
-                        <a>Teknik Mekatronika</a>
-                    </div>
-                    <div class="jurusan-carousel-item rounded-pill">
-                        <a>Sistem Pembangkit Energi</a>
-                    </div>
-                    <div class="jurusan-carousel-item rounded-pill">
-                        <a>Teknologi Multimedia dan Broadcasting</a>
-                    </div>
-                    <div class="jurusan-carousel-item rounded-pill">
-                        <a>Teknologi Game</a>
-                    </div>
+                    <a href="<?= current_url(); ?>/jurusan-elka" class="btn jurusan-carousel-item rounded-pill">
+                        <span>Teknik Elektronika</span>
+                    </a>
+                    <a href="<?= current_url(); ?>/jurusan-telkom" class="btn jurusan-carousel-item rounded-pill">
+                        <span>Teknik Telekomunikasi</span>
+                    </a>
+                    <a href="<?= current_url(); ?>/jurusan-elin" class="btn jurusan-carousel-item rounded-pill">
+                        <span>Teknik Elektro Industri</span>
+                    </a>
+                    <a href="<?= current_url(); ?>/jurusan-it" class="btn jurusan-carousel-item rounded-pill">
+                        <span>Teknik Informatika</span>
+                    </a>
+                    <a href="<?= current_url(); ?>/jurusan-tekkom" class="btn jurusan-carousel-item rounded-pill">
+                        <span>Teknik Komputer</span>
+                    </a>
+                    <a href="<?= current_url(); ?>/jurusan-meka" class="btn jurusan-carousel-item rounded-pill">
+                        <span>Teknik Mekatronika</span>
+                    </a>
+                    <a href="<?= current_url(); ?>/jurusan-spe" class="btn jurusan-carousel-item rounded-pill">
+                        <span>Sistem Pembangkit Energi</span>
+                    </a>
+                    <a href="<?= current_url(); ?>/jurusan-mmb" class="btn jurusan-carousel-item rounded-pill">
+                        <span>Teknologi Multimedia dan Broadcasting</span>
+                    </a>
+                    <a href="<?= current_url(); ?>/jurusan-game" class="btn jurusan-carousel-item rounded-pill">
+                        <span>Teknologi Game</span>
+                    </a>
                 </div>
             </div>
         </div>
