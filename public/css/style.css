@@ -418,11 +418,13 @@ section#akademik img {
   margin-right: 12px;
 }
 
-.berita-content {
+.berita-content,
+.akademik-content {
   font-size: 14px;
 }
 
 .berita-content p,
+.akademik-content p,
 .berita-content figure {
   margin-bottom: 16px;
 }
