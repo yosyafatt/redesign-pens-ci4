@@ -10,13 +10,13 @@
             <li data-target="#mainCarousel" data-slide-to="2"></li>
         </ol>
         <div class="carousel-item active" data-interval="5000">
-            <img src="<?= base_url(); ?>/img/carousel/3.jpg" alt="" class="d-block">
+            <img src="<?= base_url(); ?>/public/img/carousel/3.jpg" alt="" class="d-block">
         </div>
         <div class="carousel-item" data-interval="3000">
-            <img src="<?= base_url(); ?>/img/carousel/1.jpg" alt="" class="d-block">
+            <img src="<?= base_url(); ?>/public/img/carousel/1.jpg" alt="" class="d-block">
         </div>
         <div class="carousel-item" data-interval="3000">
-            <img src="<?= base_url(); ?>/img/carousel/2.jpg" alt="" class="d-block">
+            <img src="<?= base_url(); ?>/public/img/carousel/2.jpg" alt="" class="d-block">
         </div>
     </div>
 </div>
@@ -94,16 +94,16 @@
     </div>
     <div class="container poster-carousel owl-carousel owl-theme">
         <div class="item">
-            <img src="<?= base_url(); ?>/img/poster/1.png" alt="">
+            <img src="<?= base_url(); ?>/public/img/poster/1.png" alt="">
         </div>
         <div class="item">
-            <img src="<?= base_url(); ?>/img/poster/2.png" alt="">
+            <img src="<?= base_url(); ?>/public/img/poster/2.png" alt="">
         </div>
         <div class="item">
-            <img src="<?= base_url(); ?>/img/poster/3.png" alt="">
+            <img src="<?= base_url(); ?>/public/img/poster/3.png" alt="">
         </div>
         <div class="item">
-            <img src="<?= base_url(); ?>/img/poster/4.png" alt="">
+            <img src="<?= base_url(); ?>/public/img/poster/4.png" alt="">
         </div>
     </div>
 </div>
@@ -114,7 +114,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img src="<?= base_url(); ?>/img/mhs2.jpg" class="mb-5" alt="">
+                <img src="<?= base_url(); ?>/public/img/mhs2.jpg" class="mb-5" alt="">
                 <h1 class="heading">Program Studi</h1>
                 <div class="row">
                     <div class="col-10">
