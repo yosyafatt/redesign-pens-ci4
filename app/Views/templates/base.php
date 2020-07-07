@@ -12,12 +12,12 @@
     <!-- Animate css -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css">
     <!-- Owl Carousel -->
-    <link rel="stylesheet" href="<?= base_url(); ?>/owl-carousel/dist/assets/owl.carousel.min.css">
-    <link rel="stylesheet" href="<?= base_url(); ?>/owl-carousel/dist/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>/public/owl-carousel/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>/public/owl-carousel/dist/assets/owl.theme.default.min.css">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>/public/css/style.css">
     <!-- Favicon -->
-    <link rel="shortcut icon" href="/img/corp-logo/favicon-primary.ico">
+    <link rel="shortcut icon" href="<?= base_url(); ?>/public/img/corp-logo/favicon-primary.ico">
     <title><?= !$title ? '' : $title; ?>Politeknik Elektronika Negeri Surabaya</title>
 </head>
 
@@ -33,7 +33,7 @@
             <div class="row">
                 <div class="col">
                     <div class="media">
-                        <img src="<?= base_url(); ?>/img/corp-logo/primary-logo-white.svg" height="150" class="align-self-center mr-3" alt="">
+                        <img src="<?= base_url(); ?>/public/img/corp-logo/primary-logo-white.svg" height="150" class="align-self-center mr-3" alt="">
                         <div class="media-body">
                             <p class="text-white"><span>Politeknik Elektronika Negeri Surabaya</span></p>
                             <p>Jalan Raya ITS, Kampus PENS</p>
@@ -65,7 +65,7 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
     <!-- Owl Carousel JS -->
-    <script src="<?= base_url(); ?>/owl-carousel/dist/owl.carousel.min.js"></script>
+    <script src="<?= base_url(); ?>/public/owl-carousel/dist/owl.carousel.min.js"></script>
     <!-- Feather Icons -->
     <script src="https://unpkg.com/feather-icons"></script>
     <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
@@ -73,7 +73,7 @@
         feather.replace()
     </script>
     <!-- Custom script -->
-    <script src="<?= base_url(); ?>/js/script.js"></script>
+    <script src="<?= base_url(); ?>/public/js/script.js"></script>
 </body>
 
 </html>
