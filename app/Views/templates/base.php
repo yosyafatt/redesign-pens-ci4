@@ -17,7 +17,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="<?= base_url(); ?>/css/style.css">
     <!-- Favicon -->
-    <link rel="shortcut icon" href="<?= base_url(); ?>/img/corp-logo/favicon-primary.ico">
+    <link rel="shortcut icon" href="/img/corp-logo/favicon-primary.ico">
     <title><?= !$title ? '' : $title; ?>Politeknik Elektronika Negeri Surabaya</title>
 </head>
 
