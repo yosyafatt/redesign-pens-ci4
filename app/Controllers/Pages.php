@@ -43,11 +43,11 @@ class Pages extends BaseController
             case 'Jurusan':
                 echo 'Jurusan page';
                 break;
-            case 'Jurusan':
-                echo 'Jurusan page';
+            case 'Program':
+                echo 'Program page';
                 break;
-            case 'Jurusan':
-                echo 'Jurusan page';
+            case 'PJJ':
+                echo 'PJJ page';
                 break;
 
             default:
