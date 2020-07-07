@@ -65,6 +65,7 @@ p {
   padding: 0;
   position: sticky;
   top: 0;
+  border-top: solid 1px rgb(20, 71, 122);
   z-index: 99;
 }
 .mainNav li.nav-item {
