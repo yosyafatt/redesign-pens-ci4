@@ -27,7 +27,7 @@
                         foreach ($berita as $b) : ?>
                             <?php if ($i < 5) : ?>
                                 <div class="carousel-item <?= $i == 0 ? 'active' : ''; ?>" data-interval="5000">
-                                    <img src="<?= base_url(); ?>/uploads/<?= $b['img']; ?>" alt="" class="d-block">
+                                    <img src="<?= base_url(); ?>/public/uploads/<?= $b['img']; ?>" alt="" class="d-block">
                                 </div>
                             <?php
                                 $i++;
@@ -53,7 +53,7 @@
                             <?php if ($i < 6) : ?>
                                 <div class="col mb-4">
                                     <div class="card">
-                                        <img src="<?= base_url(); ?>/uploads/<?= $b['img']; ?>" class="card-img-top" alt="...">
+                                        <img src="<?= base_url(); ?>/public/uploads/<?= $b['img']; ?>" class="card-img-top" alt="...">
                                         <div class="card-body">
                                             <a href="" class="text-decoration-none">
                                                 <h6 class="heading card-title"><?= $b['title']; ?></h5>
@@ -125,7 +125,7 @@
                         <?php foreach ($berita as $b) : ?>
                             <?php if ($i++ == 4) break; ?>
                             <li class="media my-3">
-                                <img src="<?= base_url(); ?>/uploads/<?= $b['img']; ?>" class="mr-3" alt="...">
+                                <img src="<?= base_url(); ?>/public/uploads/<?= $b['img']; ?>" class="mr-3" alt="...">
                                 <div class="media-body">
                                     <a href="" class="text-decoration-none">
                                         <h6 class="heading mt-0 mb-1"><?= $b['title']; ?></h5>

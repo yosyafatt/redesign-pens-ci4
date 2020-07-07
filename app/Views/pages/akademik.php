@@ -14,7 +14,7 @@
                 </ol>
             </div>
             <div class="col-md-8">
-                <img src="<?= base_url(); ?>/img/mhs2.jpg" style="object-position: bottom;" alt="">
+                <img src="<?= base_url(); ?>/public/img/mhs2.jpg" style="object-position: bottom;" alt="">
             </div>
         </div>
     </div>
