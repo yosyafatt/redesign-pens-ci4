@@ -87,7 +87,7 @@
                         <a href="" class="btn btn-transparent">Sistem Pembangkit Energi</a>
                     </div>
                     <div class="jurusan-carousel-item rounded-pill">
-                        <a> href="" class="btn btn-transparent"Teknologi Multimedia dan Broadcasting</a>
+                        <a href="" class="btn btn-transparent">Teknologi Multimedia dan Broadcasting</a>
                     </div>
                     <div class="jurusan-carousel-item rounded-pill">
                         <a href="" class="btn btn-transparent">Teknologi Game</a>
