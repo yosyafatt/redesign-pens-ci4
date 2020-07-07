@@ -86,8 +86,22 @@
                 </aside>
             </div>
             <div class="col-md-8">
-                <div class="berita-content">
+                <div class="akademik-content">
                     Departemen Teknik Mekanika Energi (DTME) merupakan departemen yang terdiri dari dua program studi, yaitu Sarjana Terapan Teknik Mekatronika dan Sarjana Terapan Sistem Pembangkit Energi. Departemen ini telah ada sejak tahun 2011. Mahasiswa program studi ini telah menorehkan banyak prestasi salah satunya yakni sebagai perwakilan Indonesia di ajang World Skill Competition yang terlaksana di Abu Dhabi, Uni Emirat Arab. Teknik Mekatronika dapat dikatakan sebagai sinergis IPTEK teknik mesin, teknik elektronika, Teknik informatika dan teknik pengaturan (atau teknik kendali) untuk merancang, membuat atau memproduksi, mengoperasikan dan memelihara sebuah sistem untuk mencapai tujuan yang diinginkan. Sedangkan Sistem Pembangkit Energi merupakan suatu program studi yang mempelajari bagaimana caranya mempertahankan dan mencari energi.
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col">
+                                    <h5 class="heading">Jurusan</h5>
+                                    <ul class="list-unstyled ml-2">
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-meka" class="card-link">Teknik Mekatronika</a></li>
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-spe" class="card-link">Sistem Pembangkit Energi</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col"></div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

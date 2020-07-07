@@ -90,6 +90,21 @@
                     <p>Departemen Elektro memuat beberapa program studi yang ada sejak awal berdirinya Politeknik Elektronika Negeri Surabaya. Departemen ini mencakup tiga disiplin ilmu yakni Elektronika, Telekomunikasi, dan Elektro Industri. Departemen Elektro Politeknik Elektronika Negeri Surabaya menaungi tujuh program studi yakni D3 Teknik Elektronika, D4 Teknik Elektronika, D3 Teknik Telekomunikasi, D4 Teknik Telekomunikasi, D3 Teknik Elektro Industri, D4 Teknik Elektro Industri dan S2 Teknik Elektro.
 
                         Departemen Elektro berdiri atas besarnya kebutuhan masyarakat akan tenaga ahli di bidang rekayasa elektronika, sistem telekomunikasi dan ketenagalistrikan industri. Departemen inipun bertujuan menjadi pusat unggulan pendidikan dan teknologi khususnya emerging technology, serta menghasilkan lulusan yang berkualitas dan kompeten di bidang Elektronika, Telekomunikasi, dan Elektro Industri.</p>
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col">
+                                    <h5 class="heading">Jurusan</h5>
+                                    <ul class="list-unstyled ml-2">
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-elka" class="card-link">Teknik Elektronika</a></li>
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-elin" class="card-link">Teknik Elektro Industri</a></li>
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-telkom" class="card-link">Teknik Telekomunikasi</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col"></div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
