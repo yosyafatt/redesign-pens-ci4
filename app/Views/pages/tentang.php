@@ -25,8 +25,8 @@
     <section>
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-5 d-flex">
-                    <img class="align-middle" width='320' src="<?= base_url(); ?>/public/img/corp-logo/primary-logo.svg" alt="">
+                <div class="col-5 text-center">
+                    <img width='320' src="<?= base_url(); ?>/public/img/corp-logo/primary-logo.svg" alt="">
                 </div>
             </div>
             <div class="row">
