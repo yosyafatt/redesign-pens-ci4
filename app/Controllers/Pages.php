@@ -35,22 +35,22 @@ class Pages extends BaseController
 
     public function akademik($subpage = '')
     {
-        $data = [
-            'title' => 'Akademik - ',
-            'page_name' => 'akademik',
-        ];
         switch ($subpage) {
-            case 'Jurusan':
-                echo 'Jurusan page';
+            case 'prodi-d3':
+                echo $subpage;
                 break;
-            case 'Program':
-                echo 'Program page';
+            case 'prodi-d4':
+                echo $subpage;
                 break;
-            case 'PJJ':
-                echo 'PJJ page';
+            case 'prodi-s2':
+                echo $subpage;
                 break;
 
             default:
+                $data = [
+                    'title' => 'Akademik - ',
+                    'page_name' => 'akademik',
+                ];
                 return view('pages/akademik', $data);
                 break;
         }
@@ -84,12 +84,12 @@ class Pages extends BaseController
         return view('pages/berita', $data);
     }
 
-    public function cobs()
+    public function akademik_konten()
     {
         $data = [
             'title' => 'cobs - ',
             'page_name' => ''
         ];
-        return view('pages/akademik-konten', $data);
+        return view('pages/akademik/akademik-konten', $data);
     }
 }

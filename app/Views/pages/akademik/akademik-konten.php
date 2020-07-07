@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-4">
                 <h1 class="heading text-white">
-                    Akademik
+                    Diploma III
                 </h1>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>">Beranda</a></li>
@@ -26,7 +26,7 @@
         <div class="row">
             <div class="col-md-4 order-last">
                 <aside class="sidebar">
-                    <h5 class="heading">Diploma III</h5>
+                    <h5 class="heading">Akademik</h5>
                     <div class="accordion" id="accordion">
                         <ul class="accordionParent">
                             <li class="accordionParentItem" role="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -78,7 +78,7 @@
                                 <li><a href="">Dep. Teknik Informatika dan Komputer</a></li>
                                 <li><a href="">Dep. Teknik Mekanika dan Energi</a></li>
                                 <li><a href="">Dep. Teknologi Multimedia Kreatif</a></li>
-                                <li><a href="">Pascasarjana</a></li>
+                                <li><a href="<?php site_url(); ?>">Pascasarjana</a></li>
                             </ul>
                         </ul>
                     </div>
