@@ -35,9 +35,14 @@ class Pages extends BaseController
 
     public function akademik($subpage = '')
     {
+        $data = [
+            'title' => 'Akademik - ',
+            'page_name' => 'akademik',
+        ];
         switch ($subpage) {
             case 'prodi-d3':
                 echo $subpage;
+                return view('pages/akademik/' . $subpage, $data);
                 break;
             case 'prodi-d4':
                 echo $subpage;
@@ -45,12 +50,35 @@ class Pages extends BaseController
             case 'prodi-s2':
                 echo $subpage;
                 break;
+            case 'jurusan-elka':
+                echo $subpage;
+                break;
+            case 'jurusan-telkom':
+                echo $subpage;
+                break;
+            case 'jurusan-elin':
+                echo $subpage;
+                break;
+            case 'jurusan-it':
+                echo $subpage;
+                break;
+            case 'jurusan-meka':
+                echo $subpage;
+                break;
+            case 'jurusan-tekkom':
+                echo $subpage;
+                break;
+            case 'jurusan-mmb':
+                echo $subpage;
+                break;
+            case 'jurusan-spe':
+                echo $subpage;
+                break;
+            case 'jurusan-game':
+                echo $subpage;
+                break;
 
             default:
-                $data = [
-                    'title' => 'Akademik - ',
-                    'page_name' => 'akademik',
-                ];
                 return view('pages/akademik', $data);
                 break;
         }

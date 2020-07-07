@@ -33,15 +33,15 @@
                                 Jurusan <i class="fas fa-sort-down float-right"></i>
                             </li>
                             <ul id="collapseOne" class="collapse accordionChild show" data-parent="#accordion">
-                                <li><a href="#">Teknik Elektronika</a></li>
-                                <li><a href="#">Teknik Telekomunikasi</a></li>
-                                <li><a href="#">Teknik Elektro Industri</a></li>
-                                <li><a href="">Teknik Informatika</a></li>
-                                <li><a href="">Teknik Mekatronika</a></li>
-                                <li><a href="">Teknik Komputer</a></li>
-                                <li><a href="">Teknologi Multimedia Broadcasting</a></li>
-                                <li><a href="">Sistem Pembangkitan Energi</a></li>
-                                <li><a href="">Teknologi Game</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-elka">Teknik Elektronika</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-telkom">Teknik Telekomunikasi</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-elin">Teknik Elektro Industri</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-it">Teknik Informatika</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-meka">Teknik Mekatronika</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-tekkom">Teknik Komputer</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-mmb">Teknologi Multimedia Broadcasting</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-spe">Sistem Pembangkitan Energi</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-game">Teknologi Game</a></li>
 
                             </ul>
                         </ul>
@@ -50,9 +50,9 @@
                                 Program Studi <i class="fas fa-sort-down float-right"></i>
                             </li>
                             <ul id="collapseTwo" class="collapse accordionChild show" data-parent="#accordion">
-                                <li><a href="#">Diploma III</a></li>
-                                <li><a href="#">Sarjana Terapan</a></li>
-                                <li><a href="#">Pascasarjana</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/prodi-d3">Diploma III</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/prodi-d4">Sarjana Terapan</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/prodi-s2">Pascasarjana</a></li>
                             </ul>
                         </ul>
                         <ul class="accordionParent">
@@ -60,7 +60,7 @@
                                 Jalur Penerimaan <i class="fas fa-sort-down float-right"></i>
                             </li>
                             <ul id="collapseThree" class="collapse accordionChild" data-parent="#accordion">
-                                <li><a href="#">SNMPN</a></li>
+                                <li><a href="https://pmb.pens.ac.id/index.php/snmpn">SNMPN</a></li>
                                 <li><a href="#">SBMPN</a></li>
                                 <li><a href="#">SIMANDIRI</a></li>
                                 <li><a href="#">Pascasarjana</a></li>
@@ -74,11 +74,11 @@
                                 Departemen <i class="fas fa-sort-down float-right"></i>
                             </li>
                             <ul id="collapseFour" class="collapse accordionChild" data-parent="#accordion">
-                                <li><a href="">Dep. Teknik Elektro</a></li>
-                                <li><a href="">Dep. Teknik Informatika dan Komputer</a></li>
-                                <li><a href="">Dep. Teknik Mekanika dan Energi</a></li>
-                                <li><a href="">Dep. Teknologi Multimedia Kreatif</a></li>
-                                <li><a href="<?= current_url() ?>">Pascasarjana</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/dept-elektro">Dep. Teknik Elektro</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/dept-tik">Dep. Teknik Informatika dan Komputer</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/dept-mekanergi">Dep. Teknik Mekanika dan Energi</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/dept-multimedia">Dep. Teknologi Multimedia Kreatif</a></li>
+                                <li><a href="<?= base_url(); ?>/pages/akademik/dept-pasca">Pascasarjana</a></li>
                             </ul>
                         </ul>
                     </div>
