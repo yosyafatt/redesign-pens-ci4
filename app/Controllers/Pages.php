@@ -110,7 +110,7 @@ class Pages extends BaseController
             'title' => 'Tentang PENS - ',
             'page_name' => 'tentang',
         ];
-        return view('pages/beranda', $data);
+        return view('pages/tentang', $data);
     }
 
     public function berita()
