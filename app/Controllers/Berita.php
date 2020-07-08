@@ -32,6 +32,13 @@ class Berita extends BaseController
     public function detail($slug)
     {
         $berita = $this->beritaModel->where(['slug' => $slug])->first();
-        dd($berita);
+
+        $data = [
+            'title' => $berita['title'] . ' -',
+            'page_name' => 'berita',
+            'berita' => $berita,
+        ];
+
+        return view('berita/berita-content', $data);
     }
 }
