@@ -19,7 +19,6 @@
     <!-- Favicon -->
     <link rel="shortcut icon" href="<?= base_url(); ?>/public/img/corp-logo/favicon-primary.ico">
     <title><?= !$title ? '' : $title; ?>Politeknik Elektronika Negeri Surabaya</title>
-    <!-- Hotjar Tracking Code for pens.yosyafat.my.id -->
 </head>
 
 <body>
@@ -75,6 +74,7 @@
     </script>
     <!-- Custom script -->
     <script src="<?= base_url(); ?>/public/js/script.js"></script>
+    <!-- Hotjar Tracking Code for pens.yosyafat.my.id -->
     <script>
         (function(h, o, t, j, a, r) {
             h.hj = h.hj || function() {
