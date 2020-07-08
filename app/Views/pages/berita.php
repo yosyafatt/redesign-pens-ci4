@@ -56,7 +56,9 @@
                                         <img src="<?= base_url(); ?>/public/uploads/<?= $b['img']; ?>" class="card-img-top" alt="...">
                                         <div class="card-body">
                                             <a href="" class="text-decoration-none">
-                                                <h6 class="heading card-title"><?= $b['title']; ?></h5>
+                                                <a href="<?= base_url(); ?>/berita/<?= $b['slug']; ?>" class="card-link">
+                                                    <h6 class="heading card-title"><?= $b['title']; ?></h5>
+                                                </a>
                                             </a>
                                             <p class="card-text">
                                                 <small class="text-muted"><?= $b['created_at']; ?></small>
@@ -127,7 +129,7 @@
                             <li class="media my-3">
                                 <img src="<?= base_url(); ?>/public/uploads/<?= $b['img']; ?>" class="mr-3" alt="...">
                                 <div class="media-body">
-                                    <a href="" class="text-decoration-none">
+                                    <a href="<?= base_url(); ?>/berita/<?= $b['slug']; ?>" class="text-decoration-none">
                                         <h6 class="heading mt-0 mb-1"><?= $b['title']; ?></h5>
                                     </a>
                                     <small><?= $b['created_at']; ?> / <?= $b['author']; ?></small>
