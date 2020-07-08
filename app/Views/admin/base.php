@@ -139,7 +139,7 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.9.0/feather.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
-  <script src="<?= base_url(); ?>/dashboard/dashboard.js"></script>
+  <script src="<?= base_url(); ?>/public/dashboard/dashboard.js"></script>
 </body>
 
 </html>
