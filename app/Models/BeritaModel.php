@@ -15,7 +15,7 @@ class BeritaModel extends Model
     {
         if (!$slug) {
             $this->builder->orderBy('id', 'DESC');
-            return $this->findAll();
+            return $this->builder->get();
         }
 
         return $this->where(['slug' => $slug])->first();
