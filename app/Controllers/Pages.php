@@ -101,7 +101,7 @@ class Pages extends BaseController
             'title' => 'Layanan - ',
             'page_name' => 'layanan',
         ];
-        return view('pages/layanan', $data);
+        return view('pages/beranda', $data);
     }
 
     public function tentang()
@@ -110,7 +110,7 @@ class Pages extends BaseController
             'title' => 'Tentang PENS - ',
             'page_name' => 'tentang',
         ];
-        return view('pages/tentang', $data);
+        return view('pages/beranda', $data);
     }
 
     public function berita()
