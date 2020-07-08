@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-4">
                 <h1 class="heading text-white">
-                    Diploma III
+                    Sarjana Terapan
                 </h1>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>">Beranda</a></li>
