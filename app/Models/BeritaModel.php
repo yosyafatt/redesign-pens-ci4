@@ -14,7 +14,8 @@ class BeritaModel extends Model
     public function getBerita($slug = false, $limit = 0)
     {
         if (!$slug) {
-            return $this->builder->orderBy('id', 'DESC')->get();
+            $this->builder->orderBy('id', 'DESC');
+            return $this->findAll();
         }
 
         return $this->where(['slug' => $slug])->first();
