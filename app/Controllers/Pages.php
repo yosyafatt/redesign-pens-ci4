@@ -101,7 +101,7 @@ class Pages extends BaseController
             'title' => 'Layanan - ',
             'page_name' => 'layanan',
         ];
-        return view('pages/beranda', $data);
+        return view('pages/layanan', $data);
     }
 
     public function tentang()
