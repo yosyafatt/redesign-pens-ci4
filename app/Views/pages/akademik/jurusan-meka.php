@@ -6,12 +6,12 @@
         <div class="row">
             <div class="col-md-4">
                 <h1 class="heading text-white">
-                    Diploma III
+                    Teknik Mekatronika
                 </h1>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>">Beranda</a></li>
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>/pages/akademik">Akademik</a></li>
-                    <li class="breadcrumb-item active"><a href="<?= base_url(); ?>/pages/akademik">Program Akademik</a></li>
+                    <li class="breadcrumb-item active"><a href="<?= current_url(); ?>">Jurusan</a></li>
                 </ol>
             </div>
             <div class="col-md-8">
@@ -88,18 +88,35 @@
             <div class="col-md-8">
                 <div class="akademik-content">
                     <h5 class="heading mb-3">Informasi Umum</h5>
-                    <p>Pada saat ini kebutuhan akan teknologi informasi memegang peranan yang sangat penting dan dimasa yang akan datang akan menjadi tulang punggung pertumbuhan ekonomi bangsa. Karena itu, Politeknik Elektronika Negeri Surabaya mendirikan Departemen Teknik Informatika dan Komputer yang terdiri dari empat program studi, yaitu D3 Teknik Informatika, D4 Teknik Informatika, D4 Teknik Komputer, serta S2 Terapan Teknik Informatika dan Komputer. Dengan tujuan menjadi pusat unggulan pendidikan teknologi rekayasa dibidang emerging technology yang terkait bidang Teknologi Informasi dan Komputer untuk menghasilkan lulusan yang siap bersaing dipasar global, Departemen Teknik Informatika dan Komputer telah banyak menghasilkan lulusan yang berkualifikasi unggul dan bekerja sebagai Programmer, Software Engineer, Hardware Designer, Network Administrator, Computer System Analyst, Manager/Supervisor, Services/Technical Support, Marketing/Sales, dan lain-lain.</p>
+                    <p>Istilah MEKATRONIKA merupakan terjemahan dari mechatronics, gabungan dari kata mechanics dan electronics. Mekatronika adalah suatu ilmu yang mengkombinasikan secara sinergis rekayasa mekanika, elektronika, dan kontrol. Istilah ini dicetuskan pertama kali oleh Tetsuro Mori dari Yasakawa Electric Company, Jepang pada tahun 1969. Semenjak tahun 1982, perusahaan tersebut telah memutuskan untuk melepas haknya atas kata mechatronics, sehingga sejak saat itu pula kata tersebut dipakai secara luas. Pada awal perkembangannya, mekatronika hanya mencakup unsur mekanika dan elektronika saja. Dengan ditemukannya mikroprosesor pada tahun 1980an, keilmuan mekatronika menjadi lebih maju dan berkembang. Mekatronika kemudian didukung oleh disiplin ilmu lain diantaranya: embedded system yang memberikan nuansa hardware programming yang menghubungkan mekanik dan elektronik, juga control system yang memberikan kecerdasan buatan kepada sistem tersebut.</p>
                     <div class="card">
                         <div class="card-body">
                             <div class="row">
                                 <div class="col">
-                                    <h5 class="heading">Jurusan</h5>
+                                    <h5 class="heading">Departemen</h5>
+                                    <a href="<?= base_url(); ?>/pages/akademik/dept-mekanergi" class="card-link">Dept. Teknik Mekanika dan Energi</a>
+
+                                    <h5 class="heading mt-2">Program Akademik</h5>
                                     <ul class="list-unstyled ml-2">
-                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-it" class="card-link">Teknik Informatika</a></li>
-                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-tekkom" class="card-link">Teknik Komputer</a></li>
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/prodi-d4" class="card-link">Sarjana Terapan</a></li>
+                                    </ul>
+
+                                    <h5 class="heading">Program Lainnya</h5>
+                                    <ul class="list-unstyled ml-2">
+                                        <li>-</li>
                                     </ul>
                                 </div>
-                                <div class="col"></div>
+                                <div class="col">
+                                    <h5 class="heading">Situs Web</h5>
+                                    <ul class="list-unstyled ml-2">
+                                        <li><a href="https://mekatronika.pens.ac.id" class="card-link">https://mekatronika.pens.ac.id</a></li>
+                                    </ul>
+                                    <h5 class="heading">Himpunan Mahasiswa</h5>
+                                    <ul class="list-unstyled ml-2">
+                                        <li><a href="https://himameka.pens.ac.id" class="card-link">Hima Meka</a></li>
+
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>

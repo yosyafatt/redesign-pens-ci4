@@ -6,12 +6,12 @@
         <div class="row">
             <div class="col-md-4">
                 <h1 class="heading text-white">
-                    Diploma III
+                    Teknik Informatika
                 </h1>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>">Beranda</a></li>
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>/pages/akademik">Akademik</a></li>
-                    <li class="breadcrumb-item active"><a href="<?= base_url(); ?>/pages/akademik">Program Akademik</a></li>
+                    <li class="breadcrumb-item active"><a href="<?= current_url(); ?>">Jurusan</a></li>
                 </ol>
             </div>
             <div class="col-md-8">
@@ -93,11 +93,10 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="col">
-                                    <span>
-                                        <h5 class="heading">Departemen</h5> : <a href="<?= base_url(); ?>/pages/akademik/dept-tik" class="card-link">Dept. Teknik Informatika dan Komputer</a>
-                                    </span>
+                                    <h5 class="heading">Departemen</h5>
+                                    <a href="<?= base_url(); ?>/pages/akademik/dept-tik" class="card-link">Dept. Teknik Informatika dan Komputer</a>
 
-                                    <h5 class="heading">Program Akademik</h5>
+                                    <h5 class="heading mt-2">Program Akademik</h5>
                                     <ul class="list-unstyled ml-2">
                                         <li><a href="<?= base_url(); ?>/pages/akademik/prodi-d3" class="card-link">Diploma III</a></li>
                                         <li><a href="<?= base_url(); ?>/pages/akademik/prodi-d4" class="card-link">Sarjana Terapan</a></li>

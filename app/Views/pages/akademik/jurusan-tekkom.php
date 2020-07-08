@@ -6,12 +6,12 @@
         <div class="row">
             <div class="col-md-4">
                 <h1 class="heading text-white">
-                    Diploma III
+                    Teknik Komputer
                 </h1>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>">Beranda</a></li>
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>/pages/akademik">Akademik</a></li>
-                    <li class="breadcrumb-item active"><a href="<?= base_url(); ?>/pages/akademik">Program Akademik</a></li>
+                    <li class="breadcrumb-item active"><a href="<?= current_url(); ?>">Jurusan</a></li>
                 </ol>
             </div>
             <div class="col-md-8">
@@ -88,18 +88,44 @@
             <div class="col-md-8">
                 <div class="akademik-content">
                     <h5 class="heading mb-3">Informasi Umum</h5>
-                    <p>Pada saat ini kebutuhan akan teknologi informasi memegang peranan yang sangat penting dan dimasa yang akan datang akan menjadi tulang punggung pertumbuhan ekonomi bangsa. Karena itu, Politeknik Elektronika Negeri Surabaya mendirikan Departemen Teknik Informatika dan Komputer yang terdiri dari empat program studi, yaitu D3 Teknik Informatika, D4 Teknik Informatika, D4 Teknik Komputer, serta S2 Terapan Teknik Informatika dan Komputer. Dengan tujuan menjadi pusat unggulan pendidikan teknologi rekayasa dibidang emerging technology yang terkait bidang Teknologi Informasi dan Komputer untuk menghasilkan lulusan yang siap bersaing dipasar global, Departemen Teknik Informatika dan Komputer telah banyak menghasilkan lulusan yang berkualifikasi unggul dan bekerja sebagai Programmer, Software Engineer, Hardware Designer, Network Administrator, Computer System Analyst, Manager/Supervisor, Services/Technical Support, Marketing/Sales, dan lain-lain.</p>
+                    <p>Program Studi D4 (Setara S1) Teknik Komputer (PSTK) PENS berdiri sejak tahun 2007, dengan staf pengajar yang berkualifikasi S2 dan S3, serta sudah dibekali dengan kompetensi profesional dibidang Teknik Komputer. Sehingga mampu untuk meluluskan mahasiswa dengan gelar Sarjana Sain Terapan (SST), yang dilaksanakan dalam waktu empat tahun penuh. Program Studi Teknik Komputer membekali mahasiswa dengan kemampuan dasar teori dan praktek yang mempunyai komposisi seimbang (50%:50%), sehingga mahasiswa mampu mengikuti mata kuliah sekaligus mampu mengembangkan teknologi dibidang Komputer. Kurikulum Program Studi Teknik Komputer bersifat terstruktur , artinya hampir semua mata kuliah teori dan praktikum diselenggarakan di Laboratorium.
+
+                    </p>
+                    Kurikulum PSTK dirancang memiliki 3 kompetensi yaitu :
+                    <ul>
+                        <li>Kompetensi bidang Embedded</li>
+                        <li>Kompetensi bidang Jaringan Komputer</li>
+                        <li>Kompetensi bidang Robotika</li>
+                    </ul>
+
                     <div class="card">
                         <div class="card-body">
                             <div class="row">
                                 <div class="col">
-                                    <h5 class="heading">Jurusan</h5>
+                                    <h5 class="heading">Departemen</h5>
+                                    <a href="<?= base_url(); ?>/pages/akademik/dept-tik" class="card-link">Dept. Teknik Informatika dan Komputer</a>
+
+                                    <h5 class="heading mt-2">Program Akademik</h5>
                                     <ul class="list-unstyled ml-2">
-                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-it" class="card-link">Teknik Informatika</a></li>
-                                        <li><a href="<?= base_url(); ?>/pages/akademik/jurusan-tekkom" class="card-link">Teknik Komputer</a></li>
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/prodi-d3" class="card-link">Diploma III</a></li>
+                                        <li><a href="https://pascasarjana.pens.ac.id" class="card-link">Pascasarjana</a></li>
+                                    </ul>
+
+                                    <h5 class="heading">Program Lainnya</h5>
+                                    <ul class="list-unstyled ml-2">
+                                        <li>-</li>
                                     </ul>
                                 </div>
-                                <div class="col"></div>
+                                <div class="col">
+                                    <h5 class="heading">Situs Web</h5>
+                                    <ul class="list-unstyled ml-2">
+                                        <li><a href="https://tekkom.pens.ac.id" class="card-link">https://tekkom.pens.ac.id</a></li>
+                                    </ul>
+                                    <h5 class="heading">Himpunan Mahasiswa</h5>
+                                    <ul class="list-unstyled ml-2">
+                                        <li><a href="https://hmce.pens.ac.id" class="card-link">HMCE (Student Union of Computer Engineering)</a></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>

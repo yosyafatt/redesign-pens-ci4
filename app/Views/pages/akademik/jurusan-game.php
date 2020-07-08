@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-4">
                 <h1 class="heading text-white">
-                    Teknologi Multimedia Broadcasting
+                    Teknologi Game
                 </h1>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>">Beranda</a></li>
@@ -88,34 +88,32 @@
             <div class="col-md-8">
                 <div class="akademik-content">
                     <h5 class="heading mb-3">Informasi Umum</h5>
-                    <p>Dalam Pendidikan D3 Teknologi Multimedia Broadcasting akan mendapatkan materi Skill dan Knowledge tentang elektronika umum, sistem pemancar radio dan televisi, sistem studio siaran radio dan TV, tools untuk pengembangan konten multimedia seputar animasi 2D/3D, editing foto/video, penggunaan kamera, lighting, dan untuk segi broadcastingnya melalui jaringan internet. Karena itu, lulusan dari program diploma Teknologi Broadcasting Multimedia akan mampu terlibat dalam pekerjaan mengoperasikan dan memelihara fasilitas broadcasting dan peralatan-peralatan di stasiun pemancar radio atau pun Televisi, atau di industri media yang lain.
-
-                        Lulusan Program studi ini akan mempunyai kompetensi untuk mendemokan pengetahuannya dibidang teknologi broadcasting yang disertai pemahaman teoritis yang baik. Mampu menganalisa dan merencanakan penyelesaian atas masalah teknis yang dihadapi, dan sebagainya. Program Studi D3 Multimedia Broadcasting akan menghasilkan insan-insan kreatif dengan kemampuan penguasaan dan berperan aktif dalam pengembangan industri kreatif di bidang multimedia.</p>
+                    <p>Dalam Program Studi D4 Teknologi Game, mahasiswa akan dibekali dengan empat kemampuan dasar yang dapat mendukung tumbuh kembang industri game yaitu kemampuan teknis, kemampuan desain, kemampuan social dan komunikasi, dan kemampuan bisnis untuk berwirausaha di bidang industri game. Program studi ini akan membentuk mahasiswa yang berkemampuan teknis meliputi merancang dan membuat game, menguasai pemrograman komputer khususnya yang berhubungan dengan game, kemampuan grafik dan audio. Penguasaan library dan tools dengan konsep yang kuat bisa menghasilkan kemampuan untuk membuat game platform dan game engine yang banyak dibutuhkan untuk memasukkan konten-konten lokal. Prodi Teknologi Game ini bergerak dalam mengembangkan industri kreatif.</p>
                     <div class="card">
                         <div class="card-body">
                             <div class="row">
                                 <div class="col">
                                     <h5 class="heading">Departemen</h5>
-                                    <a href="<?= base_url(); ?>/pages/akademik/dept-multimedia" class="card-link">Dept. Teknologi Multimedia Kreatif</a>
+                                    <a href="<?= base_url(); ?>/pages/akademik/dept-multimedia" class="card-link">Dept. Multimedia Kreatif</a>
 
                                     <h5 class="heading mt-2">Program Akademik</h5>
                                     <ul class="list-unstyled ml-2">
-                                        <li><a href="<?= base_url(); ?>/pages/akademik/prodi-d3" class="card-link">Diploma III</a></li>
+                                        <li><a href="<?= base_url(); ?>/pages/akademik/prodi-d4" class="card-link">Sarjana Terapan</a></li>
                                     </ul>
 
                                     <h5 class="heading">Program Lainnya</h5>
                                     <ul class="list-unstyled ml-2">
-                                        <li><a href="https://pmb.pens.ac.id/index.php/psdku-pjj-pens" class="card-link">D3 PSDKU PJJ Teknologi Multimedia Broadcasting</a></li>
+                                        <li>-</li>
                                     </ul>
                                 </div>
                                 <div class="col">
                                     <h5 class="heading">Situs Web</h5>
                                     <ul class="list-unstyled ml-2">
-                                        <li><a href="https://mmb.pens.ac.id" class="card-link">https://mmb.pens.ac.id</a></li>
+                                        <li><a href="https://gametech.pens.ac.id" class="card-link">https://gametech.pens.ac.id</a></li>
                                     </ul>
                                     <h5 class="heading">Himpunan Mahasiswa</h5>
                                     <ul class="list-unstyled ml-2">
-                                        <li><a href="<?= current_url(); ?>" class="card-link">Multimedia Kreatif</a></li>
+                                        <li><a href="<?= current_url(); ?>" class="card-link">#</a></li>
 
                                     </ul>
                                 </div>
