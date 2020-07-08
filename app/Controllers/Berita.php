@@ -39,6 +39,6 @@ class Berita extends BaseController
             'berita' => $berita,
         ];
 
-        return view('berita/berita-content', $data);
+        return view('pages/berita/berita-content', $data);
     }
 }
