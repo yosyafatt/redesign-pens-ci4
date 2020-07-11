@@ -171,7 +171,6 @@ section.beranda {
 section#akademik .card {
   box-shadow: -2px 1px 4px 0px rgba(0, 0, 0, 0.1);
   border: none;
-  margin-left: 24px;
   padding: 0 24px;
   transition: ease 0.25s;
 }
