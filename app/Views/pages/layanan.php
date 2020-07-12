@@ -82,8 +82,8 @@
                         </ul>
                     </aside>
                 </div>
-                <div class="col-md-8">
-                    <h3 class="berita-title heading text-center">Layanan</h3>
+                <div class="col-md-8" style="height: 960px;">
+                    <!-- <h3 class="berita-title heading text-center">Layanan</h3> -->
 
                 </div>
             </div>
