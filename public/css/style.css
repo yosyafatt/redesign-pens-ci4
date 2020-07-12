@@ -50,6 +50,9 @@ a.btn-custom {
   font-family: "Noto Sans", sans-serif;
   color: rgb(20, 71, 122);
 }
+.heading .heading-secondary {
+  color: rgb(243, 200, 4);
+}
 .sticky {
   position: fixed;
   top: 0;

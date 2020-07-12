@@ -45,11 +45,11 @@
         <div class="container">
             <div class="row">
                 <div class="col text-center">
-                    <h1 class="heading">Visi</h1>
+                    <h1 class="heading heading-secondary">Visi</h1>
                     <p class="lead">Menjadi pusat unggulan pendidikan teknologi rekayasa di bidang emerging technology dalam skala nasional maupun internasional.</p>
                 </div>
                 <div class="col">
-                    <h1 class="heading text-center">Misi</h1>
+                    <h1 class="heading heading-secondary text-center">Misi</h1>
                     <ul>
                         <li>Menyelenggarakan pendidikan dengan menyediakan lingkungan dan suasana akademik yang berkualitas untuk menghasilkan lulusan yang profesional, berpikiran terbuka, kreatif dan berjiwa pemimpin, yang siap bersaing di era global.</li>
                         <li>Sebagai sumber daya politeknik nasional, berperan aktif dalam pengembangan dan peningkatan sistem pendidikan politeknik di Indonesia.</li>
