@@ -42,46 +42,47 @@
             <div class="row">
                 <div class="col-4 mb-3">
                     <div class="card">
-                        <div class="card-body">
-                            Hymne PENS
-                        </div>
+                        <a href="">
+                            <h3 class="heading">Hymne PENS</h3>
+                        </a>
                     </div>
                 </div>
                 <div class="col-4 mb-3">
                     <div class="card">
-                        <div class="card-body">
-                            Struktur Organisasi
-                        </div>
+                        <a href="">
+                            <h3 class="heading">Struktur Organisasi</h3>
+                        </a>
                     </div>
                 </div>
                 <div class="col-4 mb-3">
                     <div class="card">
-                        <div class="card-body">
-                            Peraturan Akademik
-                        </div>
+                        <a href="">
+                            <h3 class="heading">Peraturan Akademik</h3>
+                        </a>
                     </div>
                 </div>
                 <div class="col-4 mb-3">
                     <div class="card">
-                        <div class="card-body">
-                            Kalender Akademik
-                        </div>
+                        <a href="">
+                            <h3 class="heading">Kalender Akademik</h3>
+                        </a>
                     </div>
                 </div>
                 <div class="col-4 mb-3">
                     <div class="card">
-                        <div class="card-body">
-                            Pedoman Sistem Identitas
-                        </div>
+                        <a href="">
+                            <h3 class="heading">Pedoman Sistem Identitas</h3>
+                        </a>
                     </div>
                 </div>
                 <div class="col-4 mb-3">
                     <div class="card">
-                        <div class="card-body">
-                            Akses Menuju PENS
-                        </div>
+                        <a href="">
+                            <h3 class="heading">Akses Menuju PENS</h3>
+                        </a>
                     </div>
                 </div>
+
             </div>
         </div>
     </section>
