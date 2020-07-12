@@ -43,7 +43,7 @@
                 <div class="col-4 mb-3">
                     <div class="card">
                         <div class="card-body">
-                            <a href="" class="strected-link">
+                            <a href="" class="stretched-link">
                                 <h5 class="heading">Hymne PENS</h5>
                             </a>
                         </div>
@@ -52,7 +52,7 @@
                 <div class="col-4 mb-3">
                     <div class="card">
                         <div class="card-body">
-                            <a href="" class="strected-link">
+                            <a href="" class="stretched-link">
                                 <h5 class="heading">Struktur Organisasi</h5>
                             </a>
                         </div>
@@ -61,7 +61,7 @@
                 <div class="col-4 mb-3">
                     <div class="card">
                         <div class="card-body">
-                            <a href="" class="strected-link">
+                            <a href="" class="stretched-link">
                                 <h5 class="heading">Kalender Akademik</h5>
                             </a>
                         </div>
@@ -70,7 +70,7 @@
                 <div class="col-4 mb-3">
                     <div class="card">
                         <div class="card-body">
-                            <a href="" class="strected-link">
+                            <a href="" class="stretched-link">
                                 <h5 class="heading">Peraturan Akademik</h5>
                             </a>
                         </div>
@@ -79,7 +79,7 @@
                 <div class="col-4 mb-3">
                     <div class="card">
                         <div class="card-body">
-                            <a href="" class="strected-link">
+                            <a href="" class="stretched-link">
                                 <h5 class="heading">Pedoman Sistem Identitas</h5>
                             </a>
                         </div>
@@ -88,7 +88,7 @@
                 <div class="col-4 mb-3">
                     <div class="card">
                         <div class="card-body">
-                            <a href="" class="strected-link">
+                            <a href="" class="stretched-link">
                                 <h5 class="heading">Akses Menuju PENS</h5>
                             </a>
                         </div>
