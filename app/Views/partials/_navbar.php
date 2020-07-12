@@ -1,5 +1,5 @@
 <!-- Navbars -->
-<nav id="topNav" class="navbar navbar-expand-sm topnav">
+<nav id="topNav" class="navbar navbar-expand-lg topnav">
     <div class="container">
         <div class="navbar-toggler-right">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsetopnav" aria-controls="collapsetopnav" aria-expanded="false" aria-label="Toggle navigation">
@@ -57,7 +57,7 @@
     </div>
 </nav>
 
-<nav id="mainNav" class="navbar navbar-expand-sm mainNav">
+<nav id="mainNav" class="navbar navbar-expand-lg mainNav">
     <div class="container">
         <a href="<?= base_url(); ?>" class="navbar-brand">
             <img src="<?= base_url(); ?>/public/img/corp-logo/inline-logo-white.svg" alt="Politeknik Elektronika Negeri Surabaya">
