@@ -39,11 +39,58 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="row text-center">
                 <div class="col-4 mb-3">
                     <div class="card">
                         <div class="card-body">
-                            <a href="" class="btn btn-link">Hymne PENS</a>
+                            <a href="" class="strected-link">
+                                <h5 class="heading">Hymne PENS</h5>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 mb-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <a href="" class="strected-link">
+                                <h5 class="heading">Struktur Organisasi</h5>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 mb-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <a href="" class="strected-link">
+                                <h5 class="heading">Kalender Akademik</h5>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 mb-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <a href="" class="strected-link">
+                                <h5 class="heading">Peraturan Akademik</h5>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 mb-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <a href="" class="strected-link">
+                                <h5 class="heading">Pedoman Sistem Identitas</h5>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 mb-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <a href="" class="strected-link">
+                                <h5 class="heading">Akses Menuju PENS</h5>
+                            </a>
                         </div>
                     </div>
                 </div>
