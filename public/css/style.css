@@ -50,7 +50,8 @@ a.btn-custom {
   font-family: "Noto Sans", sans-serif;
   color: rgb(20, 71, 122);
 }
-.heading .heading-secondary {
+.heading-secondary {
+  font-family: "Noto Sans", sans-serif;
   color: rgb(243, 200, 4);
 }
 .sticky {
