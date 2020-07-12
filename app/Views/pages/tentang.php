@@ -40,7 +40,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col tentang-visi">
+                <div class="col text-center">
                     <h2 class="heading">Visi</h2>
                     <p class="lead">Menjadi pusat unggulan pendidikan teknologi rekayasa di bidang emerging technology dalam skala nasional maupun internasional.</p>
                 </div>
