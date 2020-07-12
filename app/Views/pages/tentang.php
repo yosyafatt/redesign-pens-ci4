@@ -39,7 +39,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row text-center">
+            <div class="row text-center mt-4">
                 <div class="col-4 mb-3">
                     <div class="card">
                         <div class="card-body">
