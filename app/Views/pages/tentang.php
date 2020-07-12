@@ -24,12 +24,6 @@
 <main class="main-content">
     <section>
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-5 text-center">
-                    <!-- <img width='320' src="/public/img/corp-logo/primary-logo.svg" alt=""> -->
-                    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=112.79214620590211%2C-7.278054046179066%2C112.79625535011293%2C-7.274797461720949&amp;layer=mapnik&amp;marker=-7.276425756904272%2C112.79420077800751" style="border: 1px solid black"></iframe><br /><small><a href="https://www.openstreetmap.org/?mlat=-7.27643&amp;mlon=112.79420#map=18/-7.27643/112.79420">Lihat peta lebih besar</a></small>
-                </div>
-            </div>
             <div class="row">
                 <div class="col-md-4">
                     <aside class="sidebar">
