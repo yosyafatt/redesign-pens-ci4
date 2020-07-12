@@ -64,8 +64,8 @@
         </div>
     </section>
     <section class="text-center my-5">
-        <h1 class="heading">Peta Kampus</h1>
-        <iframe width="720" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=112.79214620590211%2C-7.278054046179066%2C112.79625535011293%2C-7.274797461720949&amp;layer=mapnik&amp;marker=-7.276425756904272%2C112.79420077800751" style="border: 1px solid black"></iframe><br /><small><a href="https://www.openstreetmap.org/?mlat=-7.27643&amp;mlon=112.79420#map=18/-7.27643/112.79420">Lihat peta lebih besar</a></small>
+        <h1 class="heading mb-3">Peta Kampus</h1>
+        <iframe width="800" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=112.79214620590211%2C-7.278054046179066%2C112.79625535011293%2C-7.274797461720949&amp;layer=mapnik&amp;marker=-7.276425756904272%2C112.79420077800751" style="border: 1px solid black"></iframe><br /><small><a href="https://www.openstreetmap.org/?mlat=-7.27643&amp;mlon=112.79420#map=18/-7.27643/112.79420">Lihat peta lebih besar</a></small>
     </section>
 </main>
 
