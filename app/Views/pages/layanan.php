@@ -37,6 +37,7 @@
                                     <li><a href="#">Portal Mahasiswa</a></li>
                                     <li><a href="#">Online MIS</a></li>
                                     <li><a href="#">E-Learning</a></li>
+                                    <li><a href="#">Kalender Akademik</a></li>
                                     <li><a href="#">Form Kelengkapan Tugas Akhir</a></li>
                                     <li><a href="#">Form Kelengkapan Bebas Pinjam Lab dan Perpustakaan</a></li>
                                     <li><a href="#">Job Arrangement System</a></li>
