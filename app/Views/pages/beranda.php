@@ -118,7 +118,7 @@
             <div class="col-md-6">
                 <img src="<?= base_url(); ?>/public/img/mhs2.jpg" class="mb-5" alt="">
                 <h1 class="heading">Program Studi</h1>
-                <div class="row">
+                <div class="row justify-content-around">
                     <div class="col-10">
                         <p class="text-justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat ab quisquam incidunt labore laboriosam iusto commodi itaque at ad facere! Voluptatum delectus harum vero obcaecati velit! Animi consequatur maxime laudantium.</p>
                     </div>
