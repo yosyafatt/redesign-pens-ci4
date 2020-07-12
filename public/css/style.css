@@ -44,7 +44,7 @@ a.btn-custom {
   transition: transform 0.2s;
 }
 .btn-custom:hover {
-  transform: scale(1.25);
+  transform: scale(1.1);
 }
 .heading {
   font-family: "Noto Sans", sans-serif;
