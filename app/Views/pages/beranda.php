@@ -125,7 +125,7 @@
                 </div>
 
             </div>
-            <div class="d-flex flex-column col-md-6 justify-content-around">
+            <div class="d-flex flex-column col-md-6 justify-content-center">
                 <div class="card mb-4">
                     <div class="card-body">
                         <h4 class="heading card-title">Diploma III</h4>
