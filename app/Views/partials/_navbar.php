@@ -10,40 +10,41 @@
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link" id="calonmhs" role="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Calon Mahasiswa</a>
                     <div class="dropdown-menu" aria-labelledby="calonmhs">
-                        <a class="dropdown-item" href="#">Jurusan</a>
-                        <a class="dropdown-item" href="#">Jalur Penerimaan</a>
-                        <a class="dropdown-item" href="#">Tentang PENS</a>
-                        <a class="dropdown-item" href="#">Kehidupan Mahasiswa</a>
+                        <a class="dropdown-item" href="<?= base_url(); ?>/pages/akademik">Jurusan</a>
+                        <a class="dropdown-item" href="https://pmb.pens.ac.id">Jalur Penerimaan</a>
+                        <a class="dropdown-item" href="<?= base_url(); ?>/pages/tentang">Tentang PENS</a>
+                        <a class="dropdown-item" href="https://kemahasiswaan.pens.ac.id">Kehidupan Mahasiswa</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
-                    <a href="#" class="nav-link" id="mhs" role="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mahasiswa</a>
+                    <a href="https://kemahasiswaan.pens.ac.id/" class="nav-link" id="mhs" role="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mahasiswa</a>
                     <div class="dropdown-menu" aria-labelledby="mhs">
-                        <a class="dropdown-item" href="#">Online MIS</a>
-                        <a class="dropdown-item" href="#">E-Learning</a>
-                        <a class="dropdown-item" href="#">Kalender Akademik</a>
-                        <a class="dropdown-item" href="#">Himpunan Mahasiswa</a>
-                        <a class="dropdown-item" href="#">Komunitas</a>
+                        <a class="dropdown-item" href="https://online.mis.pens.ac.id">Online MIS</a>
+                        <a class="dropdown-item" href="https://ethol.pens.ac.id">ETHOL</a>
+                        <a class="dropdown-item" href="https://elearning.pens.ac.id">E-Learning</a>
+                        <a class="dropdown-item" href="<?= base_url(); ?>/tentang/kalender-akademik">Kalender Akademik</a>
+                        <a class="dropdown-item" href="https://kemahasiswaan.pens.ac.id/himpunan-mahasiswa/">Himpunan Mahasiswa</a>
+                        <a class="dropdown-item" href="https://kemahasiswaan.pens.ac.id/unit-kegiatan-mahasiswa/">Unit Kegiatan Mahasiswa</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link" id="stafdosen" role="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Staf & Dosen</a>
                     <div class="dropdown-menu" aria-labelledby="stafdosen">
-                        <a class="dropdown-item" href="#">Portal Dosen</a>
-                        <a class="dropdown-item" href="#">E-Learning</a>
-                        <a class="dropdown-item" href="#">Online MIS</a>
-                        <a class="dropdown-item" href="#">ETHOL</a>
+                        <a class="dropdown-item" href="https://lecturer.pens.ac.id/">Portal Dosen</a>
+                        <a class="dropdown-item" href="https://elearning.pens.ac.id/">E-Learning</a>
+                        <a class="dropdown-item" href="https://online.mis.pens.ac.id">Online MIS</a>
+                        <a class="dropdown-item" href="https://ethol.pens.ac.id">ETHOL</a>
 
                     </div>
                 </li>
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link" id="ortualumni" role="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Orangtua dan Alumni</a>
                     <div class="dropdown-menu" aria-labelledby="ortualumni">
-                        <a class="dropdown-item" href="#">Jalur Penerimaan</a>
-                        <a class="dropdown-item" href="#">Job Arrangement System</a>
-                        <a class="dropdown-item" href="#">Berita</a>
-                        <a class="dropdown-item" href="#">Kemahasiswaan</a>
-                        <a class="dropdown-item" href="#">Inkubator Bisnis : PENS Sky Venture</a>
+                        <a class="dropdown-item" href="https://pmb.pens.ac.id/">Jalur Penerimaan</a>
+                        <a class="dropdown-item" href="https://jas.pens.ac.id/">Job Arrangement System</a>
+                        <a class="dropdown-item" href="<?= base_url(); ?>/pages/berita/">Berita</a>
+                        <a class="dropdown-item" href="https://kemahasiswaan.pens.ac.id">Kemahasiswaan</a>
+                        <a class="dropdown-item" href="https://skyventure.pens.ac.id/">Inkubator Bisnis : PENS Sky Venture</a>
                     </div>
                 </li>
                 <li class="nav-item bahasa">
