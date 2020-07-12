@@ -9,7 +9,7 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link" id="calonmhs" role="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Calon Mahasiswa</a>
-                    <div class="dropdown-menu" aria-labelledby="calonmhs">
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="calonmhs">
                         <a class="dropdown-item" href="<?= base_url(); ?>/pages/akademik">Jurusan</a>
                         <a class="dropdown-item" href="https://pmb.pens.ac.id">Jalur Penerimaan</a>
                         <a class="dropdown-item" href="<?= base_url(); ?>/pages/tentang">Tentang PENS</a>
@@ -18,7 +18,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a href="https://kemahasiswaan.pens.ac.id/" class="nav-link" id="mhs" role="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mahasiswa</a>
-                    <div class="dropdown-menu" aria-labelledby="mhs">
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="mhs">
                         <a class="dropdown-item" href="https://online.mis.pens.ac.id">Online MIS</a>
                         <a class="dropdown-item" href="https://ethol.pens.ac.id">ETHOL</a>
                         <a class="dropdown-item" href="https://elearning.pens.ac.id">E-Learning</a>
@@ -29,7 +29,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link" id="stafdosen" role="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Staf & Dosen</a>
-                    <div class="dropdown-menu" aria-labelledby="stafdosen">
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="stafdosen">
                         <a class="dropdown-item" href="https://lecturer.pens.ac.id/">Portal Dosen</a>
                         <a class="dropdown-item" href="https://elearning.pens.ac.id/">E-Learning</a>
                         <a class="dropdown-item" href="https://online.mis.pens.ac.id">Online MIS</a>
@@ -39,7 +39,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link" id="ortualumni" role="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Orangtua dan Alumni</a>
-                    <div class="dropdown-menu" aria-labelledby="ortualumni">
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="ortualumni">
                         <a class="dropdown-item" href="https://pmb.pens.ac.id/">Jalur Penerimaan</a>
                         <a class="dropdown-item" href="https://jas.pens.ac.id/">Job Arrangement System</a>
                         <a class="dropdown-item" href="<?= base_url(); ?>/pages/berita/">Berita</a>
