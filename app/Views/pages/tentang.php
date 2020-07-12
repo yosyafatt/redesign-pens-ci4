@@ -41,7 +41,7 @@
             </div>
         </div>
     </section>
-    <section class="sub-section">
+    <section class="sub-section text-white">
         <div class="container">
             <div class="row">
                 <div class="col text-center">
