@@ -42,46 +42,12 @@
             <div class="row">
                 <div class="col-4 mb-3">
                     <div class="card">
-                        <a href="">
-                            <h3 class="heading">Hymne PENS</h3>
-                        </a>
+                        <div class="card-body">
+                            <a href="" class="btn btn-link">Hymne PENS</a>
+                        </div>
                     </div>
                 </div>
-                <div class="col-4 mb-3">
-                    <div class="card">
-                        <a href="">
-                            <h3 class="heading">Struktur Organisasi</h3>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-4 mb-3">
-                    <div class="card">
-                        <a href="">
-                            <h3 class="heading">Peraturan Akademik</h3>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-4 mb-3">
-                    <div class="card">
-                        <a href="">
-                            <h3 class="heading">Kalender Akademik</h3>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-4 mb-3">
-                    <div class="card">
-                        <a href="">
-                            <h3 class="heading">Pedoman Sistem Identitas</h3>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-4 mb-3">
-                    <div class="card">
-                        <a href="">
-                            <h3 class="heading">Akses Menuju PENS</h3>
-                        </a>
-                    </div>
-                </div>
+
 
             </div>
         </div>
