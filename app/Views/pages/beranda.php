@@ -125,25 +125,23 @@
                 </div>
 
             </div>
-            <div class="col-md-6">
-                <div class="d-flex flex-column justify-content-around">
-                    <div class="card mb-4">
-                        <div class="card-body">
-                            <h4 class="heading card-title">Diploma III</h4>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        </div>
+            <div class="d-flex flex-column col-md-6 justify-content-around">
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <h4 class="heading card-title">Diploma III</h4>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     </div>
-                    <div class="card mb-4">
-                        <div class="card-body">
-                            <h4 class="heading card-title">Sarjana Terapan</h4>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        </div>
+                </div>
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <h4 class="heading card-title">Sarjana Terapan</h4>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     </div>
-                    <div class="card">
-                        <div class="card-body">
-                            <h4 class="heading card-title">Pascasarjana</h4>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="heading card-title">Pascasarjana</h4>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     </div>
                 </div>
             </div>
