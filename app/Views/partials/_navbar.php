@@ -70,7 +70,7 @@
         <div class="collapse navbar-collapse" id="collapsemainNav">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item submission">
-                    <a href="https://pmb.pens.ac.id" class="nav-link">PENERIMAAN</a>
+                    <a href="https://pmb.pens.ac.id" class="nav-link">PENDAFTARAN</a>
                 </li>
                 <li class="nav-item <?= $page_name == 'akademik' ? 'active' : ''; ?>">
                     <a href="<?= base_url(); ?>/pages/akademik" class="nav-link <?= $page_name == 'akademik' ? 'active' : ''; ?>">AKADEMIK</a>
