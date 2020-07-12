@@ -58,7 +58,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="text-center">
+            <div class="justify-content-center">
                 <a href="<?= current_url(); ?>/visi-misi" class="btn shadow-sm btn-custom">Selengkapnya <span class="ml-4"><i class="fas fa-arrow-right"></i></span></a>
             </div>
         </div>
