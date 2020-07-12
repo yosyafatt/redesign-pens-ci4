@@ -24,7 +24,6 @@
 <main class="main-content">
     <section>
         <div class="container">
-
             <div class="row">
                 <div class="col">
                     <figure class="figure">
@@ -38,6 +37,22 @@
                     <div class="float-right">
                         <a href="<?= current_url(); ?>/sejarah-pens" class="btn shadow-sm btn-custom">Selengkapnya <span class="ml-4"><i class="fas fa-arrow-right"></i></span></a>
                     </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <h2 class="heading">Visi</h2>
+                    <p>Menjadi pusat unggulan pendidikan teknologi rekayasa di bidang emerging technology dalam skala nasional maupun internasional.</p>
+                </div>
+                <div class="col">
+                    <h2 class="heading">Misi</h2>
+                    <ul>
+                        <li>Menyelenggarakan pendidikan dengan menyediakan lingkungan dan suasana akademik yang berkualitas untuk menghasilkan lulusan yang profesional, berpikiran terbuka, kreatif dan berjiwa pemimpin, yang siap bersaing di era global.</li>
+                        <li>Sebagai sumber daya politeknik nasional, berperan aktif dalam pengembangan dan peningkatan sistem pendidikan politeknik di Indonesia.</li>
+                        <li>Melaksanakan penelitian yang berorientasi penemuan, pengembangan, kombinasi, atau integrasi dari beberapa teknologi yang sudah ada sebelumnya, menjadi teknologi baru yang membawa kemaslahatan masyarakat.</li>
+                        <li>Membangun dan mengimplementasikan nilai-nilai etika moral akademis dan sosial masyarakat.</li>
+                    </ul>
+
                 </div>
             </div>
         </div>
