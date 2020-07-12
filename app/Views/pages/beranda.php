@@ -177,9 +177,7 @@
     <div class="container">
         <h1 class="heading">Agenda</h1>
         <div class="row">
-            <div class="col">
-
-            </div>
+            <p class="lead my-4">Belum ada agenda</p>
         </div>
     </div>
 </section>
