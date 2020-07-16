@@ -129,19 +129,19 @@
                 <div class="card mb-4">
                     <div class="card-body">
                         <h4 class="heading card-title">Diploma III</h4>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <p class="card-text">Lulusannya dari jenjang D3 akan memiliki gelar A.Md atau Ahli Madya dengan menempuh pendidikan selama 3 tahun atau setidaknya 112 SKS.</p>
                     </div>
                 </div>
                 <div class="card mb-4">
                     <div class="card-body">
                         <h4 class="heading card-title">Sarjana Terapan</h4>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <p class="card-text">Sarjana Terapan kerap disebut juga Diploma 4. Bedanya Sarjana Terapan lebih mempelajari ilmu-ilmu praktik atau ilmu-ilmu terapan. Lulusannya akan mendapat gelar S.Tr.Kom.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="card-body">
                         <h4 class="heading card-title">Pascasarjana</h4>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <p class="card-text">Menjadi politeknik yang memulai program Pascasarjana Terapan pertama di Indonesia. PENS, sebagai awalannya membuka Progam Studi Teknik Elektro serta Teknik Informatika dan Komputer</p>
                     </div>
                 </div>
             </div>
