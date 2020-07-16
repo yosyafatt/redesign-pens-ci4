@@ -86,7 +86,8 @@
                     </aside>
                 </div>
                 <div class="col-md-8 text-center" style="height: 960px;">
-                    <a href="">Unduh kalender akademik</a>
+                    <h3 class="heading mb-4">Kalender Akademik</h3>
+                    <a href="#">Unduh kalender akademik</a>
                 </div>
             </div>
         </div>
