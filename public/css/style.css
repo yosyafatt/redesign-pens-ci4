@@ -152,7 +152,7 @@ a.btn-custom {
 
 /* Carousel */
 #mainCarousel .carousel-item {
-  height: calc(100vh - 100px);
+  height: 400px;
   position: relative;
   text-shadow: 2px 2px 4px #333;
   transition: transform 2s ease, opacity 0.5s ease-out;
