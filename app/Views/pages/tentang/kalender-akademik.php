@@ -12,6 +12,8 @@
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="<?= base_url(); ?>">Beranda</a></li>
                     <li class="breadcrumb-item active"><a href="#">Layanan</a></li>
+                    <li class="breadcrumb-item active"><a href="#">Kalender Akademik</a></li>
+
                 </ol>
             </div>
             <div class="col-md-8">
@@ -37,7 +39,7 @@
                                     <li><a href="#">Portal Mahasiswa</a></li>
                                     <li><a href="#">Online MIS</a></li>
                                     <li><a href="#">E-Learning</a></li>
-                                    <li><a href="#">Kalender Akademik</a></li>
+                                    <li><a href="#" class="active">Kalender Akademik</a></li>
                                     <li><a href="#">Form Kelengkapan Tugas Akhir</a></li>
                                     <li><a href="#">Form Kelengkapan Bebas Pinjam Lab dan Perpustakaan</a></li>
                                     <li><a href="#">Job Arrangement System</a></li>
@@ -83,8 +85,8 @@
                         </ul>
                     </aside>
                 </div>
-                <div class="col-md-8" style="height: 960px;">
-                    <embed src="<?= base_url(); ?>/public/docs/Tata-Logo-PENS.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="600px" />
+                <div class="col-md-8 text-center" style="height: 960px;">
+                    <a href="">Unduh kalender akademik</a>
                 </div>
             </div>
         </div>

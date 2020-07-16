@@ -35,6 +35,7 @@
                         <a class="dropdown-item" href="https://elearning.pens.ac.id/">E-Learning</a>
                         <a class="dropdown-item" href="https://online.mis.pens.ac.id">Online MIS</a>
                         <a class="dropdown-item" href="https://ethol.pens.ac.id">ETHOL</a>
+                        <a href="https://repo.pens.ac.id" class="dropdown-item">Repo Jurnal PENS</a>
 
                     </div>
                 </li>
