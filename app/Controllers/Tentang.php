@@ -6,7 +6,7 @@ use \App\Models\AgendaModel;
 use \App\Models\BeritaModel;
 use \App\Models\PengumumanModel;
 
-class Berita extends BaseController
+class Tentang extends BaseController
 {
     protected $agendaModel;
     protected $beritaModel;
