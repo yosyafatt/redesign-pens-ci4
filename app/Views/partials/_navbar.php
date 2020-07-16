@@ -23,7 +23,7 @@
                         <a class="dropdown-item" href="https://ethol.pens.ac.id">ETHOL</a>
                         <a class="dropdown-item" href="https://elearning.pens.ac.id">E-Learning</a>
                         <a href="https://repo.pens.ac.id" class="dropdown-item">Repo Jurnal PENS</a>
-                        <a class="dropdown-item" href="<?= base_url(); ?>/tentang/kalender-akademik">Kalender Akademik</a>
+                        <a class="dropdown-item" href="<?= base_url(); ?>/tentang/kalenderakademik">Kalender Akademik</a>
                         <a class="dropdown-item" href="https://kemahasiswaan.pens.ac.id/himpunan-mahasiswa/">Himpunan Mahasiswa</a>
                         <a class="dropdown-item" href="https://kemahasiswaan.pens.ac.id/unit-kegiatan-mahasiswa/">Unit Kegiatan Mahasiswa</a>
                     </div>
