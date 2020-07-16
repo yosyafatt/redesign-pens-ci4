@@ -30,6 +30,10 @@ class Tentang extends BaseController
 
     public function kalenderakademik()
     {
-        return view('pages/tentang/kalender-akademik');
+        $data = [
+            'title' => 'Kalender Akademik -',
+            'page_name' => 'kaldik',
+        ];
+        return view('pages/tentang/kalender-akademik', $data);
     }
 }
